@@ -46,7 +46,7 @@
     * 32 版本时自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
     * 4.4.4 版本时自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
-    * 4.4.4 版本之前的版本可能自带有 CNNIC ROOT
+    * 4.4.4 版本之前的版本可能自带有 `CNNIC ROOT`
 
 ### 注意
 * Windows
