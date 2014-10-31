@@ -41,11 +41,11 @@
 * Linux
     * 不同发行版系统本身的CA根证书列表可能有所不同，具体需要按实际情况操作
 * Mac
-    * OS X 10.9 版本时自带有 CNNIC ROOT 和 China Internet Network Information Center EV Certificates Root 和 UCA Global Root 以及 UCA Root
+    * OS X 10.9 版本时自带有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
 * Firefox
-    * 32 版本时自带有 CNNIC ROOT 以及 China Internet Network Information Center EV Certificates Root
+    * 32 版本时自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
-    * 4.4.4 版本时自带有 CNNIC ROOT 以及 China Internet Network Information Center EV Certificates Root
+    * 4.4.4 版本时自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
     * 4.4.4 版本之前的版本可能自带有 CNNIC ROOT
 
 ### 注意
