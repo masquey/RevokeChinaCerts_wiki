@@ -11,6 +11,8 @@
 使用前請自行估量是否有載入 AntiChinaCerts 的需要，如果不能清楚判斷而造成之不良後果，專案組所有成員均不承擔一切責任！
 使用 AntiChinaCerts 原始程式碼前務必參閱 LICENSE 通用公共許可證之內容！
 
+---
+
 ### Contacts
 * [Twitter](https://twitter.com/chengr28)
 * [Google+](https://plus.google.com/104603245338932141930)
