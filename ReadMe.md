@@ -90,7 +90,7 @@
         * It's belong to [China Internet Network Information Center/CNNIC/中国互联网络信息中心](http://www.cnnic.net.cn)
     * Baidu WACC service
         * SHA-1 fingerprint is 561422647B89BE22F203EBCAEF52B5007227510A
-        * SW CA which belong to [Baidu](http://www.baidu.com) issued this certification.
+        * SW CA which belong to [Baidu/百度公司](http://www.baidu.com) issued this certification.
         * [Test site](https://wacc.n.shifen.com)
 * **Extended version**
     * CFCA GT CA
