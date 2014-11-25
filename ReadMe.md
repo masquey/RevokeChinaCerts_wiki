@@ -88,6 +88,10 @@
         * Intermediate certification of Entrust.net Secure Server Certification Authority
         * Old CNNIC SSL certification which begin to available in 2007-05-11 and 2012-03-01 expired.
         * It's belong to [China Internet Network Information Center/CNNIC/中国互联网络信息中心](http://www.cnnic.net.cn)
+    * Baidu WACC service
+        * SHA-1 fingerprint is 561422647B89BE22F203EBCAEF52B5007227510A
+        * SW CA which belong to [Baidu](http://www.baidu.com) issued this certification.
+        * [Test site](https://wacc.n.shifen.com)
 * **Extended version**
     * CFCA GT CA
         * SHA-1 fingerprint is EABDA240440ABBD694930A01D09764C6C2D77966
