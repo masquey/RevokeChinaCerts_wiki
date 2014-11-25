@@ -101,8 +101,7 @@
         * 所屬 [China Internet Network Information Center/CNNIC/中国互联网络信息中心](http://www.cnnic.net.cn)
     * Baidu WACC service
         * SHA-1 指紋 561422647B89BE22F203EBCAEF52B5007227510A
-        * 由 SW CA 簽發的證書
-        * 所屬 [Baidu](http://www.baidu.com)
+        * 所屬 [Baidu/百度公司](http://www.baidu.com)自行簽發頒發的 SW CA 根憑證所簽發的證書
         * [測試網址](https://wacc.n.shifen.com)
 * **Extended 版本**
     * CFCA GT CA
