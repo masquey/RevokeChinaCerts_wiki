@@ -99,6 +99,11 @@
         * 由 Entrust.net Secure Server Certification Authority 簽發的中級憑證授權單位
         * 在2007年5月11日頒發的 CNNIC ROOT 舊證書，已于2012年3月1日過期
         * 所屬 [China Internet Network Information Center/CNNIC/中国互联网络信息中心](http://www.cnnic.net.cn)
+    * Baidu WACC service
+        * SHA-1 指紋 561422647B89BE22F203EBCAEF52B5007227510A
+        * 由 SW CA 簽發的證書
+        * 所屬 [Baidu](http://www.baidu.com)
+        * [測試網址](https://wacc.n.shifen.com)
 * **Extended 版本**
     * CFCA GT CA
         * SHA-1 指紋 EABDA240440ABBD694930A01D09764C6C2D77966
