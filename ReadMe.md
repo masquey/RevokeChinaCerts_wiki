@@ -199,6 +199,13 @@
     * Hongkong Post Root CA 1
         * SHA-1 fingerprint is `D6DAA8208D09D2154D24B52FCB346EB258B28A58`
         * It's belong to [Hongkong Post 香港郵政](http://www.hongkongpost.hk)
+    * Macao Post eSignTrust Root Certification Authority
+        * SHA-1 fingerprint is `89C32E6B524E4D65388B9ECEDC637134ED4193A3`
+        * Old Macao Post eSignTrust Root Certification Authority(G02) certificate which begin to available in 2003-01-30 and 2013-01-30 expired.
+        * It's belong to [Macao Post eSignTrust Certification Services](http://www.esigntrust.com)
+    * Macao Post eSignTrust Root Certification Authority(G02)
+        * SHA-1 fingerprint is `06143151E02B45DDBADD5D8E56530DAAE328CF90`
+        * It's belong to [Macao Post eSignTrust Certification Services](http://www.esigntrust.com)
     * ePKI Root Certification Authority
         * SHA-1 fingerprint is `67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0`
         * It's belong to [中華電信公開金鑰基礎建設](http://epki.com.tw)
