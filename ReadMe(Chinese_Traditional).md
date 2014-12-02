@@ -207,6 +207,13 @@
     * Hongkong Post Root CA 1
         * SHA-1 指紋 `D6DAA8208D09D2154D24B52FCB346EB258B28A58`
         * 所屬 [Hongkong Post 香港郵政](http://www.hongkongpost.hk)
+    * Macao Post eSignTrust Root Certification Authority
+        * SHA-1 指紋 `89C32E6B524E4D65388B9ECEDC637134ED4193A3`
+        * 在 2003-01-30 頒發的 Macao Post eSignTrust Root Certification Authority(G02) 舊證書，已于 2013-01-30 過期
+        * 所屬 [Macao Post eSignTrust Certification Services](http://www.esigntrust.com)
+    * Macao Post eSignTrust Root Certification Authority(G02)
+        * SHA-1 指紋 `06143151E02B45DDBADD5D8E56530DAAE328CF90`
+        * 所屬 [Macao Post eSignTrust Certification Services](http://www.esigntrust.com)
     * ePKI Root Certification Authority
         * SHA-1 指紋 `67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0`
         * 所屬 [中華電信公開金鑰基礎建設](http://epki.com.tw)
