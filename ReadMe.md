@@ -41,7 +41,7 @@
 * Firefox
     * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Firefox 32.
 * Android
-    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 4.4.4.
+    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1.
 
 ### Attention
 * Windows
@@ -152,7 +152,15 @@
         * Old WoSign(USA) certificate which begin to available in 1999-07-08 and 2020-07-07 expired.
         * It's belong to [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
+        * SHA-1 fingerprint is `33A4D8BC38608EF52EF0E28A35091E9250907FB9`
+        * Old Certification Authority of WoSign certificate which begin to available in 2009-08-08 and 2039-08-08 expired.
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
         * SHA-1 fingerprint is `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * Intermediate certificate of StartCom Certification Authority
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * CA 沃通根证书
+        * SHA-1 fingerprint is `D8EFF6C28BB508E4702565F42748454A872BD412`
         * Intermediate certificate of StartCom Certification Authority
         * It's belong to [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
@@ -171,6 +179,10 @@
         * SHA-1 fingerprint is `6D5A18050D56BFDE525CBE89E8C45DD1B53D12E9`
         * Intermediate certificate of UTN - DATACorp SGC
         * It's belong to [沃通CA](http://www.wosign.com)
+    * WoSign Client Authority
+        * SHA-1 fingerprint is `FAD4319D4E173FF3853E51C98D21919BF3DA1A1E
+        * Intermediate certificate of UTN-USERFirst-Client Authentication and Email
+        * It's belong to [沃通CA](http://www.wosign.com)
     * WoTrust Premium Server Authority
         * SHA-1 fingerprint is `381CBC5048AFD9A02D3E5882D5F22D962B1A5F72`
         * Intermediate certificate of AddTrust External CA Root/UTN-USERFirst-Hardware
@@ -182,6 +194,10 @@
     * WoTrust SGC Server Authority
         * SHA-1 fingerprint is `46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C`
         * Intermediate certificate of UTN - DATACorp SGC
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * WoTrust Client Authority
+        * SHA-1 fingerprint is `38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0`
+        * Intermediate certificate of UTN-USERFirst-Client Authentication and Email
         * It's belong to [沃通CA](http://www.wosign.com)
     * China Trust Network(1)
         * SHA-1 fingerprint is `C2CAEB0DC296FD50596BCA0F53C5364521167039`
