@@ -42,7 +42,7 @@
 * Firefox
     * 32 版本時自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
-    * 4.4 - 5.0 版本時自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
+    * 4.4 - 5.0.1 版本時自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
     * 4.4 版本之前的版本可能自帶有 `CNNIC ROOT`
 
 ### 注意
@@ -160,7 +160,15 @@
         * 在 1999-07-08 頒發的美國 WoSign 公司的舊證書，于 2013-05-17 被沃通CA收購，證書將于 2020-07-07 過期
         * 所屬 [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
+        * SHA-1 指紋 `33A4D8BC38608EF52EF0E28A35091E9250907FB9`
+        * 在 1999-07-08 頒發的 Certification Authority of WoSign 舊證書，將於 2039-08-08 過期
+        * 所屬 [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
         * SHA-1 指紋 `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * 由 StartCom Certification Authority 簽發的中級憑證授權單位
+        * 所屬 [沃通CA](http://www.wosign.com)
+    * CA 沃通根证书
+        * SHA-1 指紋 `D8EFF6C28BB508E4702565F42748454A872BD412`
         * 由 StartCom Certification Authority 簽發的中級憑證授權單位
         * 所屬 [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
@@ -179,6 +187,10 @@
         * SHA-1 指紋 `6D5A18050D56BFDE525CBE89E8C45DD1B53D12E9`
         * 由 UTN - DATACorp SGC 簽發的中級憑證授權單位
         * 所屬 [沃通CA](http://www.wosign.com)
+    * WoSign Client Authority
+        * SHA-1 指紋 `FAD4319D4E173FF3853E51C98D21919BF3DA1A1E`
+        * 由 UTN-USERFirst-Client Authentication and Email 簽發的中級憑證授權單位
+        * 所屬 [沃通CA](http://www.wosign.com)
     * WoTrust Premium Server Authority
         * SHA-1 指紋 `381CBC5048AFD9A02D3E5882D5F22D962B1A5F72`
         * 由 AddTrust External CA Root/UTN-USERFirst-Hardware 簽發的中級憑證授權單位
@@ -190,6 +202,10 @@
     * WoTrust SGC Server Authority
         * SHA-1 指紋 `46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C`
         * 由 UTN - DATACorp SGC 簽發的中級憑證授權單位
+        * 所屬 [沃通CA](http://www.wosign.com)
+    * WoTrust Client Authority
+        * SHA-1 指紋 `38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0`
+        * 由 UTN-USERFirst-Client Authentication and Email 簽發的中級憑證授權單位
         * 所屬 [沃通CA](http://www.wosign.com)
     * China Trust Network(1)
         * SHA-1 指紋 `C2CAEB0DC296FD50596BCA0F53C5364521167039`
