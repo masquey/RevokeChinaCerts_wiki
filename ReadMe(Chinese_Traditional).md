@@ -10,7 +10,7 @@
     * 選擇好不同的版本，直接運行位於 Windows 目錄裡的批次處理
     * 操作完畢建議清空所有瀏覽器資料和系統緩存，並重啟網路連接
 * Linux
-    * 以 Debian 系列為例子，其它 Linux 發行版本操作方法參見其官方說明
+    * 以 Debian 系列為例，其它 Linux 發行版本操作方法參見其官方說明
     * 打開終端並執行 `sudo dpkg-reconfigure ca-certificates`
     * 在清單中找到並選擇需要禁用的證書，按空格鍵取消對該證書的信任
     * 對所有需要禁用的證書執行完上步操作後回車確定
@@ -38,12 +38,11 @@
 * Linux
     * 不同發行版本系統本身的CA根憑證清單可能有所不同，具體需要按實際情況操作
 * Mac
-    * OS X 10.9 版本時自帶有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
+    * OS X Yosemite 版本時經已自帶有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
 * Firefox
-    * 32 版本時自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
+    * 32 版本時經已自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
-    * 4.4 - 5.0.1 版本時自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
-    * 4.4 版本之前的版本可能自帶有 `CNNIC ROOT`
+    * 5.0.1 版本時經已自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 
 ### 注意
 * Windows
@@ -97,9 +96,13 @@
         * 在 2007-05-11 頒發的 CNNIC ROOT 舊證書，已于 2012-03-01 過期
         * 所屬 [China Internet Network Information Center/CNNIC/中国互联网络信息中心](http://www.cnnic.net.cn)
     * Baidu WACC service
-        * SHA-1 指紋 `561422647B89BE22F203EBCAEF52B5007227510A`
+        * SHA-1 指紋 `7514436E903C901069980499CA70DE74FC06C83C`
         * 所屬 [Baidu/百度公司](http://www.baidu.com) 自行簽發頒發的 SW CA 根憑證所簽發的證書
         * [測試網址](https://wacc.n.shifen.com)
+    * GiantRootCA
+        * SHA-1 指紋 `561422647B89BE22F203EBCAEF52B5007227510A`
+        * 所屬 [Giant Interactive Group Inc./巨人网络](http://www.ztgame.com)
+        * [測試網址](https://mail.ztgame.com)
 * **Extended 版本**
     * CFCA GT CA
         * SHA-1 指紋 `EABDA240440ABBD694930A01D09764C6C2D77966`
@@ -133,17 +136,7 @@
     * GoAgent CA
         * SHA-1 指紋 `AB702CDF18EBE8B438C52869CD4A5DEF48B40E33`
         * 所屬 [GoAgent](https://github.com/goagent/goagent) 專案于初版使用至今的預設 CA 根憑證
-    * SZCA
-        * SHA-1 指紋 `B0049D436F27237EE59C746A1EF3C96A8E1B54AC`
-        * 所属 [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
-    * SZCA
-        * SHA-1 指紋 `90D7A97592F0A3E2165DE5DA23B57701D74A298D`
-        * 在 2003-07-22 頒發的 UCA ROOT 舊證書，已于 2013-07-19 過期
-        * 所属 [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
 * **All 版本**
-    * ROOTCA
-        * SHA-1 指紋 `DBB84423C928ABE889D0E368FC3191D151DDB1AB`
-        * 所屬 [Office of the State Commercial Cryptography Administration/OSCCA/国家商用密码管理办公室](http://www.oscca.gov.cn)
     * SRCA
         * SHA-1 指紋 `AE3F2E66D48FC6BD1DF131E89D768D505DF14302`
         * 所屬 [Sinorail Certification Authority/SRCA/中铁数字证书认证中心](http://www.12306.cn)
@@ -165,6 +158,14 @@
         * 所屬 [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
         * SHA-1 指紋 `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * 由 StartCom Certification Authority 簽發的中級憑證授權單位
+        * 所屬 [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 指紋 `692790DA5189529CC5CE1E16E984277A03023E99`
+        * 由 StartCom Certification Authority 簽發的中級憑證授權單位
+        * 所屬 [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 指紋 `804E5FB7DE84F5F5B28347233EAF07846B6070D3`
         * 由 StartCom Certification Authority 簽發的中級憑證授權單位
         * 所屬 [沃通CA](http://www.wosign.com)
     * CA 沃通根证书
@@ -207,15 +208,6 @@
         * SHA-1 指紋 `38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0`
         * 由 UTN-USERFirst-Client Authentication and Email 簽發的中級憑證授權單位
         * 所屬 [沃通CA](http://www.wosign.com)
-    * China Trust Network(1)
-        * SHA-1 指紋 `C2CAEB0DC296FD50596BCA0F53C5364521167039`
-        * 所屬 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(2)
-        * SHA-1 指紋 `B39B0B24B156D8B6123CAF7BA249DC81F27E39FA`
-        * 所屬 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(3)
-        * SHA-1 指紋 `7C88AE178AE6AB8E69C30AF586D84EF29B6E6AE3`
-        * 所屬 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
     * Hongkong Post Root CA
         * SHA-1 指紋 `E0925E18C7765E22DABD9427529DA6AF4E066428`
         * 在 2000-01-16 頒發的 Hongkong Post Root CA 1 舊證書，已于 2010-01-17 過期
