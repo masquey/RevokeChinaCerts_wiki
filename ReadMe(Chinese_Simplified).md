@@ -38,12 +38,11 @@
 * Linux
     * 不同发行版系统本身的CA根证书列表可能有所不同，具体需要按实际情况操作
 * Mac
-    * OS X 10.9 版本时自带有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
+    * OS X Yosemite 版本时已经自带有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
 * Firefox
-    * 32 版本时自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
+    * 32 版本时已经自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
-    * 4.4 - 5.0.1 版本自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
-    * 4.4 版本之前的版本可能自带有 `CNNIC ROOT`
+    * 5.0.1 版本时已经自带有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 
 ### 注意
 * Windows
@@ -100,6 +99,10 @@
         * SHA-1 指纹 `561422647B89BE22F203EBCAEF52B5007227510A`
         * 所属 [Baidu/百度公司](http://www.baidu.com) 自行颁发的 SW CA 根证书所签发的证书
         * [测试网址](https://wacc.n.shifen.com)
+    * GiantRootCA
+        * SHA-1 指纹 `7514436E903C901069980499CA70DE74FC06C83C`
+        * 所属 [Giant Interactive Group Inc./巨人网络](http://www.ztgame.com)
+        * [测试网址](https://mail.ztgame.com)
 * **Extended 版本**
     * CFCA GT CA
         * SHA-1 指纹 `EABDA240440ABBD694930A01D09764C6C2D77966`
@@ -133,17 +136,7 @@
     * GoAgent CA
         * SHA-1 指纹 `AB702CDF18EBE8B438C52869CD4A5DEF48B40E33`
         * 所属 [GoAgent](https://github.com/goagent/goagent) 项目于初版使用至今的默认 CA 根证书
-    * SZCA
-        * SHA-1 指纹 `B0049D436F27237EE59C746A1EF3C96A8E1B54AC`
-        * 所属 [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
-    * SZCA
-        * SHA-1 指纹 `90D7A97592F0A3E2165DE5DA23B57701D74A298D`
-        * 在 2003-07-22 颁发的 SZCA 旧证书，已于 2013-07-19 过期
-        * 所属 [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
 * **All 版本**
-    * ROOTCA
-        * SHA-1 指纹 `‎DBB84423C928ABE889D0E368FC3191D151DDB1AB`
-        * 所属 [Office of the State Commercial Cryptography Administration/OSCCA/国家商用密码管理办公室](http://www.oscca.gov.cn)
     * SRCA
         * SHA-1 指纹 `‎AE3F2E66D48FC6BD1DF131E89D768D505DF14302`
         * 所属 [Sinorail Certification Authority/SRCA/中铁数字证书认证中心](http://www.12306.cn)
@@ -165,6 +158,14 @@
         * 所属 [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
         * SHA-1 指纹 `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * 由 StartCom Certification Authority 签发的中级证书颁发机构
+        * 所属 [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 指纹 `692790DA5189529CC5CE1E16E984277A03023E99`
+        * 由 StartCom Certification Authority 签发的中级证书颁发机构
+        * 所属 [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 指纹 `804E5FB7DE84F5F5B28347233EAF07846B6070D3`
         * 由 StartCom Certification Authority 签发的中级证书颁发机构
         * 所属 [沃通CA](http://www.wosign.com)
     * CA 沃通根证书
@@ -207,15 +208,6 @@
         * SHA-1 指纹 `38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0`
         * 由 UTN-USERFirst-Client Authentication and Email 签发的中级证书颁发机构
         * 所属 [沃通CA](http://www.wosign.com)
-    * China Trust Network(1)
-        * SHA-1 指纹 `C2CAEB0DC296FD50596BCA0F53C5364521167039`
-        * 所属 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(2)
-        * SHA-1 指纹 `B39B0B24B156D8B6123CAF7BA249DC81F27E39FA`
-        * 所属 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(3)
-        * SHA-1 指纹 `7C88AE178AE6AB8E69C30AF586D84EF29B6E6AE3`
-        * 所属 [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
     * Hongkong Post Root CA
         * SHA-1 指纹 `E0925E18C7765E22DABD9427529DA6AF4E066428`
         * 在 2000-01-16 颁发的 Hongkong Post Root CA 1 旧证书，已于 2010-01-17 过期
