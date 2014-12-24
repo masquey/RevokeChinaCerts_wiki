@@ -9,10 +9,10 @@
 * Windows
     * Choose the version and run `.bat` file.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
-* Linux(Debian, other Linux distributions need to see its official description)
+* Linux(Debian, other Linux distributions should need to see its official description.)
     * Execute `sudo dpkg-reconfigure ca-certificates` in terminal.
     * Using the space bar to revoke the certificates.
-    * Using enter key to save changes.
+    * Using tab and enter key to save changes.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 * Mac
     * Using shell script
@@ -37,11 +37,11 @@
 * Linux
     * Different Linux distributions need different process, see its official description.
 * Mac
-    * `CNNIC ROOT`, `China Internet Network Information Center EV Certificates Root`, `UCA Global Root` and `UCA Root` in OS X 10.9.
+    * `CNNIC ROOT`, `China Internet Network Information Center EV Certificates Root`, `UCA Global Root` and `UCA Root` in OS X Yosemite and old versions.
 * Firefox
     * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Firefox 32.
 * Android
-    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1.
+    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1 and old versions.
 
 ### Attention
 * Windows
@@ -92,6 +92,10 @@
         * SHA-1 fingerprint is `561422647B89BE22F203EBCAEF52B5007227510A`
         * SW CA which belong to [Baidu/百度公司](http://www.baidu.com) issued this certificate.
         * [Test site](https://wacc.n.shifen.com)
+    * GiantRootCA
+        * SHA-1 fingerprint is `7514436E903C901069980499CA70DE74FC06C83C`
+        * It's belong to [Giant Interactive Group Inc./巨人网络](http://www.ztgame.com)
+        * [Test site](https://mail.ztgame.com)
 * **Extended version**
     * CFCA GT CA
         * SHA-1 fingerprint is `EABDA240440ABBD694930A01D09764C6C2D77966`
@@ -125,17 +129,7 @@
     * GoAgent CA
         * SHA-1 fingerprint is `AB702CDF18EBE8B438C52869CD4A5DEF48B40E33`
         * It's the default certificate of [GoAgent](https://github.com/goagent/goagent).
-    * SZCA
-        * SHA-1 fingerprint is `B0049D436F27237EE59C746A1EF3C96A8E1B54AC`
-        * It's belong to [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
-    * SZCA
-        * SHA-1 fingerprint is `90D7A97592F0A3E2165DE5DA23B57701D74A298D`
-        * Old SZCA certificate which begin to available in 2003-07-22 and 2013-07-19 expired.
-        * It's belong to [ShenZhen Digital Certificate Authority Center/深圳市电子商务安全证书管理有限公司](http://www.szca.net)
 * **All version**
-    * ROOTCA
-        * SHA-1 fingerprint is `DBB84423C928ABE889D0E368FC3191D151DDB1AB`
-        * It's belong to [Office of the State Commercial Cryptography Administration/OSCCA/国家商用密码管理办公室](http://www.oscca.gov.cn)
     * SRCA
         * SHA-1 fingerprint is `AE3F2E66D48FC6BD1DF131E89D768D505DF14302`
         * It's belong to [Sinorail Certification Authority/SRCA/中铁数字证书认证中心](http://www.12306.cn)
@@ -157,6 +151,18 @@
         * It's belong to [沃通CA](http://www.wosign.com)
     * Certification Authority of WoSign
         * SHA-1 fingerprint is `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * Intermediate certificate of StartCom Certification Authority
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 fingerprint is `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
+        * Intermediate certificate of StartCom Certification Authority
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 fingerprint is `692790DA5189529CC5CE1E16E984277A03023E99`
+        * Intermediate certificate of StartCom Certification Authority
+        * It's belong to [沃通CA](http://www.wosign.com)
+    * Certification Authority of WoSign
+        * SHA-1 fingerprint is `804E5FB7DE84F5F5B28347233EAF07846B6070D3`
         * Intermediate certificate of StartCom Certification Authority
         * It's belong to [沃通CA](http://www.wosign.com)
     * CA 沃通根证书
@@ -199,15 +205,6 @@
         * SHA-1 fingerprint is `38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0`
         * Intermediate certificate of UTN-USERFirst-Client Authentication and Email
         * It's belong to [沃通CA](http://www.wosign.com)
-    * China Trust Network(1)
-        * SHA-1 fingerprint is `C2CAEB0DC296FD50596BCA0F53C5364521167039`
-        * It's belong to [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(2)
-        * SHA-1 fingerprint is `B39B0B24B156D8B6123CAF7BA249DC81F27E39FA`
-        * It's belong to [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
-    * China Trust Network(3)
-        * SHA-1 fingerprint is `7C88AE178AE6AB8E69C30AF586D84EF29B6E6AE3`
-        * It's belong to [iTrusChina/天威诚信数字认证中心](http://www.itrus.com.cn)
     * Hongkong Post Root CA
         * SHA-1 fingerprint is `E0925E18C7765E22DABD9427529DA6AF4E066428`
         * Old Hongkong Post Root CA 1 certificate which begin to available in 2000-01-16 and 2010-01-17 expired.
