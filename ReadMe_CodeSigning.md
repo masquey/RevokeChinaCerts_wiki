@@ -1,7 +1,7 @@
 ### Batch/Shell version
 * **Choice** `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Choice.bat` can revoke Code Signing certificates with your choices. **This is the suggestion.**
 * **All** `\ArchiveCerts\RevokeChinaCerts_CodeSigning.bat` can revoke all listed Code Signing certificates.
-* **Restore** `\ArchiveCerts\RevokeChinaCerts_Restore.bat` can restore all listed revoked Code Signing certificates.
+* **Restore** `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Restore.bat` can restore all listed revoked Code Signing certificates.
 * The list of certificates is in About Certificates section.
 
 ### About Certifications
