@@ -1,7 +1,7 @@
 ### 批次處理/腳本類型
 * **Choice** 為可提示選擇版本，可由使用者根據提示自行選擇需要吊銷清單中代碼簽名的證書，直接運行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Choice.bat` 並根據提示操作即可，**建議使用此版本**
 * **All** 為完全版本，吊銷了所有清單中代碼簽名的證書，直接運行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning.bat` 即可
-* **Restore** 為恢復批次處理，直接運行 `\ArchiveCerts\RevokeChinaCerts_Restore.bat` 可恢復所有在上面幾個版本中所有被加入吊銷清單的證書的使用
+* **Restore** 為恢復批次處理，直接運行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Restore.bat` 可恢復所有在上面幾個版本中所有被加入吊銷清單的證書的使用
 * 代碼簽章憑證清單參見下文涉及的證書的介紹
 
 ### 涉及的證書
