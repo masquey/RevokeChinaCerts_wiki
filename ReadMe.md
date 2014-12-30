@@ -5,6 +5,9 @@
 * **Restore** is the restore batch, which can restore all revoked certificates.
 * The list of certificates is in About Certificates section.
 
+### Special
+* **Extended** and **All** version will revoke `GoAgent CA` using in GoAgent. Please delete `CA.crt` and `certs` folder in GoAgent program folder(if it exists). Finally, clear all browser(s) data and restart GoAgent.
+
 ### Usage
 * Windows
     * Choose the version and run `.bat` file.
