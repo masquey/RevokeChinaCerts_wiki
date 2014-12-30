@@ -1,7 +1,7 @@
 ### 批处理/脚本类型
 * **Choice** 为可提示选择版本，可由用户根据提示自行选择需要吊销列表中代码签名的证书，直接运行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Choice.bat` 并根据提示操作即可，**建议使用此版本**
 * **All** 为完全版本，吊销了所有列表中代码签名的证书，直接运行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning.bat` 即可
-* **Restore** 为恢复批处理，直接运行 `\ArchiveCerts\RevokeChinaCerts_Restore.bat` 可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
+* **Restore** 为恢复批处理，直接运行 `\ArchiveCerts\RevokeChinaCerts_CodeSigning_Restore.bat` 可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
 * 代码签名证书列表参见下文涉及的证书的介绍
 
 ### 涉及的证书
