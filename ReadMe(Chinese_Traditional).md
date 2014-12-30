@@ -1,12 +1,12 @@
-### Windows 批次處理類型
+### 批次處理/腳本類型
 * **Base** 為基礎版本，刪除信任並吊銷了幾個可疑的根憑證、中級證書或假證書，直接運行 `RevokeChinaCerts_Base.bat` 即可
 * **Extended** 為擴展版本，刪除信任並吊銷了所有可疑的根憑證、中級證書或假證書，直接運行 `RevokeChinaCerts_Extended.bat` 即可，**建議使用此版本**
 * **All** 為完全版本，刪除信任並吊銷了所有可疑的來自大中華地區的證書，直接運行 `RevokeChinaCerts_All.bat` 即可，**此版本用於測試不建議使用**
 * **Restore** 為恢復批次處理，直接運行 `RevokeChinaCerts_Restore.bat` 可恢復所有在上面幾個版本中所有被加入吊銷清單的證書的使用
 * 具體的根憑證、中級證書或假證書清單參見下文涉及的證書的介紹
 
-### 特別提醒
-* **Extended** 版和 **All** 版会自动吊销 GoAgent 自带的 `GoAgent CA` 证书，为免使用 GoAgent 时出现错误同时也为了系统加密连接的安全强烈建议更换其自带的 CA 根证书。**关闭所有 GoAgent 程序，进入其 `local` 目录删除 `CA.crt` 以及整个 `certs` 目录，然后清空所有浏览器数据重启 GoAgent 和浏览器即可。**
+### 特别提醒
+* **Extended** 版和 **All** 版會自動吊銷 GoAgent 自帶的 `GoAgent CA` 證書，為免使用 GoAgent 時出現錯誤同時也為了系統加密連接的安全強烈建議更換其自帶的 CA 根憑證。**關閉所有 GoAgent 程式，進入其 `local` 目錄刪除 `CA.crt` 以及整個 `certs` 目錄，然後清空所有瀏覽器資料重啟 GoAgent 和瀏覽器即可。**
 
 ### 使用方法
 * Windows
@@ -20,7 +20,7 @@
     * 操作完畢建議清空所有瀏覽器資料和系統緩存，並重啟網路連接
 * Mac
     * 使用自動腳本
-        * 使用 `sudo` 以 ROOT 許可權運行位於 Mac 目錄裡的 `RevokeChinaCerts.sh` 即可
+        * 使用 `sudo` 以 ROOT 許可權運行位於 Mac 目錄裡的 `RevokeChinaCerts.sh` 或 `RevokeChinaCerts_All.sh` 即可
     * 手動操作
         * `公用程式` - `鑰匙串訪問` - 在 `鑰匙串` 中選擇 `系統根憑證`
         * 點擊進入需要禁用的證書，展開 `信任` 標籤並在 `使用此證書時` 下拉式功能表選擇 `永不信任` 並關閉即可
