@@ -5,6 +5,9 @@
 * **Restore** 为恢复批处理，直接运行 `RevokeChinaCerts_Restore.bat` 可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
 * 具体的根证书、中级证书或假证书列表参见下文涉及的证书的介绍
 
+### 特别提醒
+* **Extended** 版和 **All** 版會自動吊銷 GoAgent 自帶的 `GoAgent CA` 證書，為免使用 GoAgent 時出現錯誤同時也為了系統加密連接的安全強烈建議更換其自帶的 CA 根憑證。**關閉所有 GoAgent 程式，進入其 `local` 目錄刪除 `CA.crt` 以及整個 `certs` 目錄，然後清空所有瀏覽器資料重啟 GoAgent 和瀏覽器即可。**
+
 ### 使用方法
 * Windows
     * 选择好不同的版本，直接运行位于 Windows 目录里的批处理
