@@ -1,4 +1,4 @@
-### Batch version(Windows)
+### Batch/Shell version
 * **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
 * **Extended** is the extended version of RevokeChinaCerts, which can revoke all root/intermediate/fake certificates. **This is the suggestion.**
 * **All** is the all version of RevokeChinaCerts, which can revoke all certificates from greater China. **This is the test version.**
