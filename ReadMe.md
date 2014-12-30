@@ -19,7 +19,7 @@
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 * Mac
     * Using shell script
-        * Get the root permission with `sudo` and run `RevokeChinaCerts.sh`.
+        * Get the root permission with `sudo` and run `RevokeChinaCerts.sh` or `RevokeChinaCerts_All.sh`.
     * Manually
         * Open `Utilities` - `Keychain Access` - `Keychains` - `System Roots`
         * Open the certificate and select all `Not trusted`.
