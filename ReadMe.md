@@ -10,7 +10,7 @@
 
 ### Usage
 * Windows
-    * Choose the version and run `.bat` file.
+    * Choose the version and run(as Common user **and** as Administrator, need twice) `.bat` file.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 * Linux(Debian, other Linux distributions should need to see its official description.)
     * Execute `sudo dpkg-reconfigure ca-certificates` in terminal.
@@ -100,6 +100,13 @@
     * GiantRootCA
         * SHA-1 is `7514436E903C901069980499CA70DE74FC06C83C`
         * [Test site](https://mail.ztgame.com)
+    * **[国家新闻出版广电总局](http://www.sarft.gov.cn)**
+    * JGZXCA
+        * SHA-1 `7A4AA61E2A88704115E47748D8647DAEE6837559`
+        * [Test site](https://211.146.10.133)
+    * **[Superfish, Inc.](http://www.home.superfish.com)**
+    * Superfish, Inc.
+        * SHA-1 `C864484869D41D2B0D32319C5A62F9315AAF2CBD`
 * **Extended version**
     * **[China Financial Certification Authority/CFCA/中国金融认证中心](http://www.cfca.com.cn)**
     * CFCA GT CA
