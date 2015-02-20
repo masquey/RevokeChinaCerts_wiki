@@ -10,7 +10,7 @@
 
 ### 使用方法
 * Windows
-    * 选择好不同的版本，直接运行位于 Windows 目录里的批处理
+    * 选择好不同的版本，以普通权限和以管理员权限分别运行一次位于 Windows 目录里选择好的批处理
     * 操作完毕建议清空所有浏览器数据和系统缓存，并重启网络连接
 * Linux(以 Debian 系为例，其它 Linux 发行版操作方法参见其官方说明)
     * 打开终端并执行 `sudo dpkg-reconfigure ca-certificates`
@@ -35,7 +35,7 @@
 
 ### 说明
 * Windows
-    * 本工具作用是先将列表中的证书删掉，然后再将这些证书添加到CRL证书吊销列表中，CRL证书吊销列表中的证书才能被彻底禁用
+    * 本工具作用是先将列表中的证书删掉，然后再将这些证书添加到 CRL 证书吊销列表中，CRL 证书吊销列表中的证书才能被彻底禁用
     * 大部分 Windows 的程序和浏览器 Chrome 以及 Opera 亦使用 Windows 系统提供的证书列表
 * Linux
     * 不同发行版系统本身的CA根证书列表可能有所不同，具体需要按实际情况操作
@@ -106,6 +106,13 @@
     * GiantRootCA
         * SHA-1 `7514436E903C901069980499CA70DE74FC06C83C`
         * [测试网址](https://mail.ztgame.com)
+    * **所属 [国家新闻出版广电总局](http://www.sarft.gov.cn)**
+    * JGZXCA
+        * SHA-1 `7A4AA61E2A88704115E47748D8647DAEE6837559`
+        * [测试网址](https://211.146.10.133)
+    * **所属 [Superfish, Inc.](http://www.home.superfish.com)**
+    * Superfish, Inc.
+        * SHA-1 `C864484869D41D2B0D32319C5A62F9315AAF2CBD`
 * **Extended 版本**
     * **以下证书均所属 [China Financial Certification Authority/CFCA/中国金融认证中心](http://www.cfca.com.cn)**
     * CFCA GT CA
