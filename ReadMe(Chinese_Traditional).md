@@ -10,7 +10,7 @@
 
 ### 使用方法
 * Windows
-    * 選擇好不同的版本，直接運行位於 Windows 目錄裡的批次處理
+    * 選擇好不同的版本，以普通許可權和以管理員許可權分別運行一次位於 Windows 目錄裡選擇好的批次處理
     * 操作完畢建議清空所有瀏覽器資料和系統緩存，並重啟網路連接
 * Linux
     * 以 Debian 系列為例，其它 Linux 發行版本操作方法參見其官方說明
@@ -36,7 +36,7 @@
 
 ### 說明
 * Windows
-    * 本工具作用是先將清單中的證書刪掉，然後再將這些證書添加到CRL憑證撤銷清單中，CRL憑證撤銷清單中的證書才能被徹底禁用
+    * 本工具作用是先將清單中的證書刪掉，然後再將這些證書添加到 CRL 憑證撤銷清單中，CRL 憑證撤銷清單中的證書才能被徹底禁用
     * 大部分 Windows 的程式和瀏覽器 Chrome 以及 Opera 亦使用 Windows 系統提供的證書清單
 * Linux
     * 不同發行版本系統本身的CA根憑證清單可能有所不同，具體需要按實際情況操作
@@ -107,6 +107,13 @@
     * GiantRootCA
         * SHA-1 `561422647B89BE22F203EBCAEF52B5007227510A`
         * [測試網址](https://mail.ztgame.com)
+    * **所屬 [国家新闻出版广电总局](http://www.sarft.gov.cn)**
+    * JGZXCA
+        * SHA-1 `7A4AA61E2A88704115E47748D8647DAEE6837559`
+        * [測試網址](https://211.146.10.133)
+    * **所屬 [Superfish, Inc.](http://www.home.superfish.com)**
+    * Superfish, Inc.
+        * SHA-1 `C864484869D41D2B0D32319C5A62F9315AAF2CBD`
 * **Extended 版本**
     * **以下證書均所屬 [China Financial Certification Authority/CFCA/中国金融认证中心](http://www.cfca.com.cn)**
     * CFCA GT CA
