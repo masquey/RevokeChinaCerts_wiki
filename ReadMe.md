@@ -1,16 +1,6 @@
-### Batch/Shell version
-* **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
-* **Extended** is the extended version of RevokeChinaCerts, which can revoke all root/intermediate/fake certificates. **This is the suggestion.**
-* **All** is the all version of RevokeChinaCerts, which can revoke all certificates from greater China. **This is the test version.**
-* **Restore** is the restore batch, which can restore all revoked certificates.
-* The list of certificates is in About Certificates section.
-
-### Special
-* **Extended** and **All** version will revoke `GoAgent CA` using in GoAgent. Please delete `CA.crt` and `certs` folder in GoAgent program folder(if it exists). Finally, clear all browser(s) data and restart GoAgent.
-
 ### Usage
 * Windows
-    * Choose the version and run(as Common user **and** as Administrator, need twice) `.bat` file.
+    * Choose the version and run(as Common user **and** as Administrator, need twice) `RevokeChinaCerts_Online.bat`.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 * Linux(Debian, other Linux distributions should need to see its official description.)
     * Execute `sudo dpkg-reconfigure ca-certificates` in terminal.
@@ -33,9 +23,21 @@
     * Open the certificate and select `Disable`.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 
-### Explanation
+### Version
+* **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
+* **Extended** is the extended version of RevokeChinaCerts, which can revoke all root/intermediate/fake certificates. **This is the suggestion.**
+* **All** is the all version of RevokeChinaCerts, which can revoke all certificates from greater China. **This is the test version.**
+* **Restore** is the restore batch, which can restore all revoked certificates.
+* The list of certificates is in About Certificates section.
+
+### Special
+* **Some security software will "protect" HTTPS transport with MITM/Man-in-the-middle attack, you must shutdown those modules or uninstall the software!**
+* **Extended** and **All** version will revoke `GoAgent CA` using in GoAgent. Please delete `CA.crt` and `certs` folder in GoAgent program folder(if it exists). Finally, clear all browser(s) data and restart GoAgent.
+
+### Attention
 * Windows
-    * Delete certificate can not revoke it. You must add the certificate to CRL to disable it(or call Revoke).
+    * Delete certificate cannot revoke it. You must add the certificate to CRL to disable it(or call Revoke).
+    * You must run the revoking or restoring batch in all users in Windows.
     * Most of Windows programs, Chrome and Opera is using system certificate list.
 * Linux
     * Different Linux distributions need different process, see its official description.
@@ -44,14 +46,9 @@
 * Firefox
     * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Firefox 32.
 * Android
-    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1 and old versions.
-
-### Attention
-* Windows
-    * You must run the revoking or restoring batch in all users in Windows.
-* Android
     * Pay attention to any certificate errors, it can be ignored in Android.
     * Android not trust certificates which are not in list of system.
+    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1 and old versions.
 * iOS
     * There are not any ways(Undocumented) to revoke any system root certificates in iOS.
 
