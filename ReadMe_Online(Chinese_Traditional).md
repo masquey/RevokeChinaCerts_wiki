@@ -145,6 +145,10 @@
         * SHA-1 `6A174570A916FBE84453EED3D070A1D8DA442829`
     * Certification Authority of WoSign
         * SHA-1 `33A4D8BC38608EF52EF0E28A35091E9250907FB9`
+    * Certification Authority of WoSign G2
+        * SHA-1 `FBEDDC9065B7272037BC550C9C56DEBBF27894E1`
+    * CA WoSign ECC Root
+        * SHA-1 `D27AD2BEED94C0A13CC72521EA5D71BE8119F32B`
     * Certification Authority of WoSign
         * SHA-1 `868241C8B85AF79E2DAC79EDADB723E82A36AFC3`
         * 由 StartCom Certification Authority 簽發的中級憑證授權單位
