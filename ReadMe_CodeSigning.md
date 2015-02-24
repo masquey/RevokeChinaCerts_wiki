@@ -1,5 +1,5 @@
 ### Usage
-Run(as Common user and as Administrator, need twice) `RevokeChinaCerts_Online.bat.`
+Run(as Common user and as Administrator, need twice) `RevokeChinaCerts_CodeSigning.bat.`
 
 ### Version
 * **Choice** can revoke Code Signing certificates with your choices. **This is the suggestion.**
