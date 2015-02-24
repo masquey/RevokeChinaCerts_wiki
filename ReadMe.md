@@ -1,6 +1,6 @@
 ### Usage
 * Windows
-    * Choose the version and run(as Common user **and** as Administrator, need twice) `RevokeChinaCerts_Online.bat`.
+    * Run(as Common user **and** as Administrator, need twice) `RevokeChinaCerts_Online.bat`.
     * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
 * Linux(Debian, other Linux distributions should need to see its official description.)
     * Execute `sudo dpkg-reconfigure ca-certificates` in terminal.
