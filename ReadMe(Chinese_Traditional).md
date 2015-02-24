@@ -1,16 +1,6 @@
-### 批次處理/腳本類型
-* **Base** 為基礎版本，刪除信任並吊銷了幾個可疑的根憑證、中級證書或假證書，直接運行 `RevokeChinaCerts_Base.bat` 即可
-* **Extended** 為擴展版本，刪除信任並吊銷了所有可疑的根憑證、中級證書或假證書，直接運行 `RevokeChinaCerts_Extended.bat` 即可，**建議使用此版本**
-* **All** 為完全版本，刪除信任並吊銷了所有可疑的來自大中華地區的證書，直接運行 `RevokeChinaCerts_All.bat` 即可，**此版本用於測試不建議使用**
-* **Restore** 為恢復批次處理，直接運行 `RevokeChinaCerts_Restore.bat` 可恢復所有在上面幾個版本中所有被加入吊銷清單的證書的使用
-* 具體的根憑證、中級證書或假證書清單參見下文涉及的證書的介紹
-
-### 特别提醒
-* **Extended** 版和 **All** 版會自動吊銷 GoAgent 自帶的 `GoAgent CA` 證書，為免使用 GoAgent 時出現錯誤同時也為了系統加密連接的安全強烈建議更換其自帶的 CA 根憑證。**關閉所有 GoAgent 程式，進入其 `local` 目錄刪除 `CA.crt` 以及整個 `certs` 目錄，然後清空所有瀏覽器資料重啟 GoAgent 和瀏覽器即可。**
-
 ### 使用方法
 * Windows
-    * 選擇好不同的版本，以普通許可權和以管理員許可權分別運行一次位於 Windows 目錄裡選擇好的批次處理
+    * 分別以普通許可權和以管理員許可權分別運行一次位於 `RevokeChinaCerts_Online.bat` 並根據提示進行操作
     * 操作完畢建議清空所有瀏覽器資料和系統緩存，並重啟網路連接
 * Linux
     * 以 Debian 系列為例，其它 Linux 發行版本操作方法參見其官方說明
@@ -34,31 +24,35 @@
     * 點擊進入需要禁用的證書並下拉到最下面，點擊 `禁用` 按鈕即可
     * 操作完畢建議清空所有瀏覽器資料和系統緩存，並重啟網路連接
 
-### 說明
-* Windows
-    * 本工具作用是先將清單中的證書刪掉，然後再將這些證書添加到 CRL 憑證撤銷清單中，CRL 憑證撤銷清單中的證書才能被徹底禁用
-    * 大部分 Windows 的程式和瀏覽器 Chrome 以及 Opera 亦使用 Windows 系統提供的證書清單
-* Linux
-    * 不同發行版本系統本身的CA根憑證清單可能有所不同，具體需要按實際情況操作
-* Mac
-    * OS X Yosemite 版本時經已自帶有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
-* Firefox
-    * 32 版本時經已自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
-* Android
-    * 5.0.1 版本時經已自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
+### 批次處理/腳本類型
+* **1** 為 **Base/基礎版本**：刪除信任並吊銷了幾個可疑的根憑證、中級證書或假證書
+* **2** 為 **Extended/擴展版本**：刪除信任並吊銷了所有可疑的根憑證、中級證書或假證書，**建議使用此版本**
+* **3** 為 **All/完全版本**：刪除信任並吊銷了所有可疑的來自大中華地區的證書，**此版本用於測試不建議使用**
+* **4** 為 **Restore/恢復批次處理**：可恢復所有在上面幾個版本中所有被加入吊銷清單的證書的使用
+* 具體的根憑證、中級證書或假證書清單參見下文涉及的證書的介紹
 
-### 注意
+### 特別提醒
+* **部分安全軟體的 HTTPS 掃描功能可能會利用中間人攻擊的方法自己簽發 CA 憑證對加密內容進行掃描，此類功能會直接導致本工具完全失效，強烈建議關閉此類功能或者將其徹底卸載！**
+* **Extended** 版和 **All** 版會自動吊銷 GoAgent 自帶的 `GoAgent CA` 證書，為免使用 GoAgent 時出現錯誤同時也為了系統加密連接的安全強烈建議更換其自帶的 CA 根憑證。**關閉所有 GoAgent 程式，進入其 `local` 目錄刪除 `CA.crt` 以及整個 `certs` 目錄，然後清空所有瀏覽器資料重啟 GoAgent 和瀏覽器即可。**
+
+### 注意事項
 * Windows
-    * **直接將證書直接刪除並沒有任何作用，下次訪問使用該證書的網站時又會重新自動聯網添加。而由於每個使用者使用獨立的證書清單，需要所有使用者都運行一次本工具才能徹底禁用證書的使用！**
+    * 本工具作用是先將清單中的證書刪掉，然後再將這些證書添加到 CRL 憑證撤銷清單中，CRL 憑證撤銷清單中的證書才能被徹底禁用。**直接將證書直接刪除並沒有任何作用，下次訪問使用該證書的網站時又會重新自動聯網添加。而由於每個使用者使用獨立的證書清單，需要所有使用者都運行一次本工具才能徹底禁用證書的使用！**
+    * 大部分 Windows 的程式和瀏覽器 Chrome 以及 Opera 亦使用 Windows 系統提供的證書清單
     * 運行時如果遇到 `Error: Can not find a certificate matching the hash value` 等不需要在意，只要後面吊銷證書時 `CertMgr Succeeded` 運行成功就行
 * Linux
-    * 在 `/usr/share/ca-certificates` 裡也有一份各程式自己的CA根憑證清單，大多數情況下直接刪除可能並不能禁用證書
-    * Linux 發行版本系統雖然提供了 CA 根憑證調用的統一介面，但程式實際使用的 CA 根憑證清單可能是程式本身另外保存的一份，所以實際程式使用的 CA 根憑證清單可能與系統統一介面不相同，**強烈建議在系統統一介面禁用證書後再通過程式本身提供的證書管理器進行禁用**
+    * 不同發行版本系統本身的CA根憑證清單可能有所不同，具體需要按實際情況操作。Linux 發行版本系統雖然提供了 CA 根憑證調用的統一介面，但程式實際使用的CA根憑證清單可能是程式本身另外保存的一份，所以實際程式使用的 CA 根憑證清單可能與系統統一介面不相同，**強烈建議在系統統一介面禁用證書後再通過程式本身提供的證書管理器進行禁用**
+    * 在 `/usr/share/ca-certificates` 裡也有一份各程式自己的 CA 根憑證清單，大多數情況下直接刪除可能並不能禁用證書
 * Firefox
     * 在 Firefox 裡對自帶根憑證執行 `刪除或不信任` 操作就相當於是禁用其所有目的，並不會將根憑證本身刪除
+* Mac
+    * OS X Yosemite 版本時已經自帶有 `CNNIC ROOT` 和 `China Internet Network Information Center EV Certificates Root` 和 `UCA Global Root` 以及 `UCA Root`
+* Firefox
+    * 32 版本時已經自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * Android
-    * Android 上由於沒有提供比較方便的方法編輯CRL清單，故證書並不能被完全禁用，Apps 可以通過忽略證書錯誤繼續使用
-    * Android 系統沒有自帶的CA根憑證預設為不信任狀態，不需要手動添加到系統中
+    * Android 上由於沒有提供比較方便的方法編輯 CRL 清單，故證書並不能被完全禁用，Apps 可以通過忽略證書錯誤繼續使用
+    * Android 系統沒有自帶的 CA 根憑證預設為不信任狀態，不需要手動添加到系統中
+    * 5.0.1 版本時已經自帶有 `CNNIC ROOT` 以及 `China Internet Network Information Center EV Certificates Root`
 * iOS
     * iOS 沒有任何官方提供的方法禁用自帶的根憑證，請放棄在 iOS 下禁用根憑證的想法
 
