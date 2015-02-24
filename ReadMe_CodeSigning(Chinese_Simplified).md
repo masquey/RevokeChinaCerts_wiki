@@ -1,5 +1,6 @@
 ### 使用方法
-直接运行 `RevokeChinaCerts_CodeSigning.bat` 并根据提示操作即可
+* 直接运行 `RevokeChinaCerts_CodeSigning.bat` 并根据提示操作即可
+* `Set force` 为证书强制策略，启用后将强制检查证书的使用，在不启用 UAC 的情况也不能运行被吊销证书的软件。注意添加的工具需要 Microsoft .NET Framework 4.0+ 的支持，以及需要以管理员权限运行
 
 ### 批处理/脚本类型
 * **Choice/提示选择版本**：可由用户根据提示自行选择需要吊销列表中代码签名的证书，**建议使用此版本**
