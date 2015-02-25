@@ -159,8 +159,14 @@
         * Certification Authority of WoSign
             * SHA-1 is `804E5FB7DE84F5F5B28347233EAF07846B6070D3`
             * Intermediate certificate of StartCom Certification Authority
+        * Certification Authority of WoSign
+            * SHA-1 is `B0B68AE97CFE2AFACD0DC2010B9D70ACE593E8A6`
+            * Intermediate certificate of StartCom Certification Authority
         * CA 沃通根证书
             * SHA-1 is `D8EFF6C28BB508E4702565F42748454A872BD412`
+            * Intermediate certificate of StartCom Certification Authority
+        * CA 沃通根证书
+            * SHA-1 is `CE335662F0EA6764B95C7F50A995A514ACE8C815`
             * Intermediate certificate of StartCom Certification Authority
         * Certification Authority of WoSign
             * SHA-1 is `56FAADDC596DCF78D585D83A35BC04B690D12736`
