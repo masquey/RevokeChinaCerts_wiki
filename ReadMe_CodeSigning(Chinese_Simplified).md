@@ -14,6 +14,8 @@
         * SHA1 `EA36152981E296F9763E1DC74B3262D3928563F8`
     * WoTrust Code Signing Authority(UTN-USERFirst-Object)
         * SHA1 `B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6`
+    * Certification Authority of WoSign(UTN-USERFirst-Object)
+        * SHA1 `1C1ECDCCf764E6168177C5711F33EC9229A29F88`
 * **所属 [Baidu/百度公司](http://www.baidu.com)**
     * 91.Com
         * SHA1 `E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405`
