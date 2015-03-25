@@ -19,13 +19,19 @@
 * **所属 [Baidu/百度公司](http://www.baidu.com)**
     * 91.Com
         * SHA1 `E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405`
-    * Baidu (China) Co., Ltd.
+    * Baidu (China) Co., Ltd.(2012-02-22)
         * SHA1 `A34B70840C2B6F718877DDB1C2DE2C27F2C91C43`
-    * Beijing baidu Netcom science and technology co.ltd
+    * Baidu (China) Co., Ltd.(2015-02-12)
+        * SHA1 `0E6193159596F8150ED9ED2A402E67C28FAAC1BE`
+    * Beijing baidu Netcom science and technology co.ltd(2012-02-27)
         * SHA1 `D60C12D1FDB9E45551A00C8815CCD486C043945B`
+    * Beijing baidu Netcom science and technology co.ltd(2015-02-05)
+        * SHA1 `03FCF1B9FCAB6F7243F3E3E011C6FD28F64F9920`
 * **所属 [Baofeng/暴风影音](http://www.baofeng.com)**
-    * Beijing Baofeng Technology Co., Ltd.
+    * Beijing Baofeng Technology Co., Ltd.(2012-02-22)
         * SHA1 `CB6F65314E5B25D61304AB2C9C8870B574CC21F5`
+    * Beijing Baofeng Technology Co., Ltd.(2015-02-05)
+        * SHA1 `CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3`
 * **所属 [Funshion Online/风行](http://www.fun.tv)**
     * Beijing Funshion Online Technologies Ltd.
         * SHA1 `9AB5445104C6CCE5A22431CF29C4331CBC328A1B`
