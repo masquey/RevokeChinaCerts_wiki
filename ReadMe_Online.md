@@ -120,8 +120,10 @@
         * UCA Root
             * SHA-1 is `8250BED5A214433A66377CBC10EF83F669DA3A67`
             * [Test site](https://ibanks.bankofshanghai.com)
-        * UCA Extended Validation Root
-            * SHA-1 is `B9C9F58B3BBEF575E2B58328770E7B0076C40B5E`
+        * UCA Extended Validation Root(2012-05-19)
+            * SHA-1 `C59DD79CC42245AC7216FDC18524F7D1E4CF1E92`
+        * UCA Extended Validation Root(2013-03-28)
+            * SHA-1 `B9C9F58B3BBEF575E2B58328770E7B0076C40B5E`
         * UCA ROOT
             * SHA-1 is `3120F295417730075F8CD42D0CAE008EB5726EF8`
             * [Test site](https://ibanks.bankofshanghai.com)
