@@ -123,7 +123,9 @@
         * UCA Root
             * SHA-1 `8250BED5A214433A66377CBC10EF83F669DA3A67`
             * [測試網址](https://ibanks.bankofshanghai.com)
-        * UCA Extended Validation Root
+        * UCA Extended Validation Root(2012-05-19)
+            * SHA-1 `B9C9F58B3BBEF575E2B58328770E7B0076C40B5E`
+        * UCA Extended Validation Root(2013-03-28)
             * SHA-1 `B9C9F58B3BBEF575E2B58328770E7B0076C40B5E`
         * UCA ROOT
             * SHA-1 `3120F295417730075F8CD42D0CAE008EB5726EF8`
