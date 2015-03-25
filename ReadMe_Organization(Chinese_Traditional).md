@@ -79,3 +79,66 @@
 * **所屬 [TenpayCom/财付通](http://www.tenpay.com)**
     * TenpayCom Root CA
         * SHA1 `56502166C0DE2488950491C90C7560E0E7AA7378`
+* **所屬 [吉林省数字证书认证中心](http://www.jlca.com.cn)**
+    * AnXin CA Root
+        * SHA1 `1D4A2E58C68F3F2D2659BC3BAB05CFA81F87B1E8`
+* **所屬 [北京数字认证股份有限公司](http://www.bjca.org.cn)**
+    * BeiJing ROOT CA
+        * SHA1 `EC98F4A5096282FB192FFB168A574236C5A7DC6C`
+* **所屬 [西部安全认证中心有限责任公司](http://www.cwca.com.cn)**
+    * CWCA(2007-12-24)
+        * SHA1 `029A0990DC0B34838A6AAC9662A9A5E23DD7B554`
+    * CWCA(2013-01-18)
+        * SHA1 `5A48E00BE8C9F33BDCAE3F61700675B4A3A3B6F3`
+* **所屬 [福建省数字安全证书管理有限公司](http://www.fjca.com.cn)**
+    * FJCA
+        * SHA1 `DD9DE879188E29AE9C6CEF546D6191B89A6B4F09`
+* **所屬 [GFAPKI](http://www.gfapki.com.cn)**
+    * GFA CA CERTIFICATE
+        * SHA1 `A4BF39D18409E9F27B8833543E56B9434A603CFF`
+    * ROOT CERTIFICATE FOR GFA TRUST NETWORK(2007-01-11)
+        * SHA1 `C49ED789F979213F0096060DF131B04EAADAC921`
+    * ROOT CERTIFICATE FOR GFA TRUST NETWORK(2015-05-07)
+        * SHA1 `C2859A597104BFC25B52EC15899A1999738AE13F`
+* **所屬 [广西壮族自治区数字证书认证中心有限公司](http://www.gxca.com.cn)**
+    * UTrust Root CA
+        * SHA1 `5070A0E2FA1DB04C2ED63461ECE36307AB3A863B`
+    * Guangxi ROOT CA
+        * SHA1 `B3FAACDA0FFE817C3FC25B8D35FEC05A92314BDC`
+* **所屬 [湖北省数字证书认证管理中心有限公司](http://www.hbca.org.cn)**
+    * HBCA
+        * SHA1 `E67291FCE01AB748D5E473F5CA1C3915A7EC5C8E`
+* **所屬 [河南省数字证书认证中心](http://www.9611111.com)**
+    * HNCA(2003-12-01)
+        * SHA1 `3FF4124C794A11A26B49A14D005FD6D2BA5878F8`
+    * HNCA(2013-08-21)
+        * SHA1 `DAB0CA93310A2507A7407F4879BA56D105AAD3C2`
+* **所屬 [江苏省电子商务服务中心](http://www.jsca.com.cn)**
+    * JSCA_ROOT(1)
+        * SHA1 `AA90ABA1EFA49F42772C7722F5A73A1C3936B811`
+    * JSCA_ROOT(2)
+        * SHA1 `4389F7886936C6B6D5532562CBB5DA5B4DD2296B`
+* **所屬 [江西省数字证书有限公司](http://www.jxca.org.cn)**
+    * JXCA
+        * SHA1 `7A538FBBDE8EFDC125700718CC9B4A4BD9BA17E8`
+* **所屬 [广东省电子商务认证有限公司](http://www.cnca.net)**
+    * NETCA Root ClassA
+        * SHA1 `2F6D7583B2CFD0F87698FB392C8B481058A280FB`
+* **所屬 [培华校园云](http://dns.peihua.cn)**
+    * Peihua-CA
+        * SHA1 `82C5EAF859B5857D5DECD1BE6491E34E582D5BD8`
+* **所屬 [山西省数字证书认证中心_山西CA_数字证书_数字签名_电子签名](http://www.sxca.com.cn)**
+    * ShanXi Digital Certificate Authority
+        * SHA1 `10CF1AAD52AE48E1249F9718C3DCF8FB27B12BF6`
+* **所屬 [天津市电子认证中心](http://www.tjca.org.cn)**
+    * TianJinROOT
+        * SHA1 `53826F5DEF4E3AD9FD73DCF1D04E110D6DF7FDD6`
+* **所屬 [新疆数字证书认证中心](http://www.xjca.com.cn)**
+    * XjcaRoot
+        * SHA1 `52A213B3CA8A5A5664D1BB9CF7A6A546C4E55973`
+* **所屬 [浙江省数字安全证书管理有限公司](http://www.zjca.com.cn)**
+    * ZJRoot
+        * SHA1 `D65F531088EF11DD9BFA2BE437C906D44F9E9659`
+* **所屬 [eID 公民网络电子身份标识](https://eid.cn)**
+    * eID MICRoot
+        * SHA1 `6F5C880129BED8B05B14C391364FE5298E2ED5FA`
