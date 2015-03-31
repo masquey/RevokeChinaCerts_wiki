@@ -142,3 +142,6 @@
 * **所属 [eID 公民网络电子身份标识](https://eid.cn)**
     * eID MICRoot
         * SHA1 `6F5C880129BED8B05B14C391364FE5298E2ED5FA`
+* **所属 [东方新诚数字认证中心](https://toponeca.com)**
+    * DongFang eTrust CA
+        * SHA1 `7AC8AD57C068F0D58442477EB5B0DE10AF09DFDA`
