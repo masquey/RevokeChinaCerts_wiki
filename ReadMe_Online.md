@@ -23,7 +23,7 @@
 * iOS
     * There are not any ways(Undocumented) to revoke any system root certificates in iOS.
 
-### 
+### Usage(without Automation tools)
 * Linux(Debian, other Linux distributions should need to see its official description.)
     * Run `sudo dpkg-reconfigure ca-certificates` in terminal.
     * Using the space bar to revoke the certificates.
