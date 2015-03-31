@@ -1,27 +1,6 @@
 ### Usage
-* Windows
-    * Run(as Common user **and** as Administrator, need twice) `RevokeChinaCerts_Online.bat`.
-    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
-* Linux(Debian, other Linux distributions should need to see its official description.)
-    * Execute `sudo dpkg-reconfigure ca-certificates` in terminal.
-    * Using the space bar to revoke the certificates.
-    * Using tab and enter key to save changes.
-    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
-* Mac
-    * Using shell script
-        * Get the root permission with `sudo` and run `RevokeChinaCerts.sh` or `RevokeChinaCerts_All.sh`.
-    * Manually
-        * Open `Utilities` - `Keychain Access` - `Keychains` - `System Roots`
-        * Open the certificate and select all `Not trusted`.
-    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
-* Firefox
-    * Open `Tools` - `Options` - `Advanced` - `Certificates` - `View Certificates`
-    * Open the certificate and select to disable.
-    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
-* Android
-    * `Setting` - `Security` - `Trusted credentials`
-    * Open the certificate and select `Disable`.
-    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Optional, but strongly recommended)
+* Run(as Common user **and** as Administrator, need twice) `RevokeChinaCerts_Online.bat`.
+* Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Experimental, but strongly recommended)
 
 ### Version
 * **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
@@ -39,18 +18,29 @@
     * Delete certificate cannot revoke it. You must add the certificate to CRL to disable it(or call Revoke).
     * You must run the revoking or restoring batch in all users in Windows.
     * Most of Windows programs, Chrome and Opera is using system certificate list.
-* Linux
-    * Different Linux distributions need different process, see its official description.
-* Mac
-    * `CNNIC ROOT`, `China Internet Network Information Center EV Certificates Root`, `UCA Global Root` and `UCA Root` in OS X Yosemite and old versions.
 * Firefox
     * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Firefox 32.
-* Android
-    * Pay attention to any certificate errors, it can be ignored in Android.
-    * Android not trust certificates which are not in list of system.
-    * `CNNIC ROOT` and `China Internet Network Information Center EV Certificates Root` in Android 5.0.1 and old versions.
 * iOS
     * There are not any ways(Undocumented) to revoke any system root certificates in iOS.
+
+### 
+* Linux(Debian, other Linux distributions should need to see its official description.)
+    * Run `sudo dpkg-reconfigure ca-certificates` in terminal.
+    * Using the space bar to revoke the certificates.
+    * Using tab and enter key to save changes.
+    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Experimental, but strongly recommended)
+* Mac
+    * Open `Utilities` - `Keychain Access` - `Keychains` - `System Roots`
+    * Open the certificate and select all `Not trusted`.
+    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Experimental, but strongly recommended)
+* Firefox
+    * Open `Tools` - `Options` - `Advanced` - `Certificates` - `View Certificates`
+    * Open the certificate and select to disable.
+    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Experimental, but strongly recommended)
+* Android
+    * `Setting` - `Security` - `Trusted credentials`
+    * Open the certificate and select `Disable`.
+    * Clear all browser(s) data and DNS cache of system, then restart network interface(s). (Experimental, but strongly recommended)
 
 ### About Certifications
 * **Base version**
