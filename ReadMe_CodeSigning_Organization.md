@@ -1,5 +1,6 @@
 ### Usage
-Run `RevokeChinaCerts_Control.bat`.
+* Run `RevokeChinaCerts_Control.bat`.
+* Setting force require administrative privileges and Microsoft .NET Framework 4.0+.
 
 ### Version
 * **1** is **All** version, it can revoke all listed CodeSigning/Organization certificates.
@@ -7,4 +8,4 @@ Run `RevokeChinaCerts_Control.bat`.
 * **3** is **Restore** version, it can restore all listed revoking CodeSigning/Organization certificates.
 
 ### About Certifications
-See https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/CodeSigning/CodeSigning.md
+See https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/CodeSigning/CodeSigning.md and https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/Organization/Organization.md
