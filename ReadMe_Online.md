@@ -1,5 +1,5 @@
 ### Usage
-* Run `RevokeChinaCerts_Control.bat`.
+* Run `RevokeChinaCerts_Online.bat` and follow the messages on screen.
 * **Clear all browser(s) data and DNS cache of system**, and restart network interface(s).
 
 ### Version
