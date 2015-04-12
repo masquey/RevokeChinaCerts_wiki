@@ -1,5 +1,5 @@
 ### 使用方法
-* 運行 `RevokeChinaCerts_Control.bat` 並根據提示進行操作即可
+* 運行 `RevokeChinaCerts_Online.bat` 並根據提示進行操作即可
 * **操作完畢後請務必清空所有瀏覽器資料和系統緩存**，並建議並重啟網路連接
 
 ### 批次處理/腳本類型
