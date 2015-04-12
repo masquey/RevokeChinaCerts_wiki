@@ -1,5 +1,5 @@
 ### Usage
-* Run `RevokeChinaCerts_Control.bat`.
+* Run `RevokeChinaCerts_CodeSigning.bat` or `RevokeChinaCerts_Organization.bat` and follow the messages on screen.
 * Setting force require administrative privileges and Microsoft .NET Framework 4.0+.
 
 ### Version
