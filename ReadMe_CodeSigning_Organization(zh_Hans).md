@@ -8,5 +8,4 @@
 * **3/Restore/恢复版本**：可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
 
 ### 涉及的证书
-参见 https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/CodeSigning/CodeSigning.md 和 
-https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/Organization/Organization.md
+参见 https://github.com/chengr28/RevokeChinaCerts/wiki/ReadMe_CodeSigning_Organization#about-certificates
