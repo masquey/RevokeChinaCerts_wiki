@@ -38,7 +38,7 @@
 * **iOS**: There are not any ways(Undocumented) to revoke any system root certificates in iOS.
 
 ### About Certificates
-* See [this link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#hunman-readable-certificates-details) for more details.
+* See [this link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#human-readable-certificates-details) for more details.
 * **Base** list
 
 Name | Authority | SHA-1
