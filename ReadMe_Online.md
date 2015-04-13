@@ -37,7 +37,7 @@
     * Clear all browser(s) data and DNS cache of system, and restart network interface(s).
 * **iOS**: There are not any ways(Undocumented) to revoke any system root certificates in iOS.
 
-### About Certifications
+### About Certificates
 * See [this link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#hunman-readable-certificates-details) for more details.
 * **Base** list
 
