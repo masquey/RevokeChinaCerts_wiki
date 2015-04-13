@@ -56,3 +56,56 @@ Name | Authority | SHA-1
 Name | Authority | SHA-1
 :---:|:---:|---
 ABC2048 | [Agricultural Bank of China](http://www.abchina.com) | 6FAE9AD81467C5FCB93574670F52C8EF538F8B6D
+ABC | [Agricultural Bank of China](http://www.abchina.com) | 78D0CDF5752D1E5B58A674644CFE3499BF02F9EF
+ABC TEST CA | [Agricultural Bank of China](http://www.abchina.com) | F18C39F8B5A3E9BADC811BBA7690E8D0143BD851
+Alibaba.com Corporation Root CA | [Alibaba Group](http://www.alibaba.com) | A7217F919843199C958C128449DD52D2723B0A8A
+ALIPAY_ROOT | [Alibaba Group](http://www.alibaba.com) | 59864294A96B3E5C37C058E9D1FBDE5FF0C2E4EE
+Alipay.com Corporation | [Alibaba Group](http://www.alibaba.com) | 89A2FB0E332BA7275FE712FEC669D746125B1F32
+Tenpay.com Root CA | [Tencent](https://www.tenpay.com) | 56502166C0DE2488950491C90C7560E0E7AA7378
+CCB CA ROOT | [China Construction Bank](http://www.ccb.com) | 3018E5D74DF29E3590F5BB8DF01AA7FC116BB4DE
+CCB CA ROOT | [China Construction Bank](http://www.ccb.com) | 8582B4AF7491B3D16636EEB32D44993D7DEE6C40
+IcbcCA | [Industrial and Commercial Bank of China Limited](http://www.icbc.com.cn) | A02A23D13576ECA35498DC69166A20651E203E31
+ICBC | [Industrial and Commercial Bank of China Limited](http://www.icbc.com.cn) | E3F9043072BABF5E9C631960B34CCCF9FFC8BA41
+ICBC Root CA | [Industrial and Commercial Bank of China Limited](http://www.icbc.com.cn) | 5A960203C10CFA8D42DD115B61154F98E2F617F7
+Personal ICBC CA | [Industrial and Commercial Bank of China Limited](http://www.icbc.com.cn) | 2ABC81B0D7D052F887965562BB10AA66A80F7674
+BOCOMCA | [Bank of Communications](http://www.bankcomm.com) | 4571466B830EAC5FCDC22103B9733C1A15CE78AC
+CFCA | [China Financial Certification Authority](http://www.cfca.com.cn) | A9743B713E4109381622D3689AB5D9E1DC51B164
+CFCA CS CA | [China Financial Certification Authority](http://www.cfca.com.cn) | D3FBFAA8A67FC9A2EADBF86AEB5D07A9D6AF322E
+CFCA TEST RSA CA | [China Financial Certification Authority](http://www.cfca.com.cn) | B5DCF1C58E86DBED2EA2D217A5C28D11FD9254F0
+CFCA Operation CA3 | [China Financial Certification Authority](http://www.cfca.com.cn) | 5A3A3EA74AE5D29F25A670024949869D1222E42A
+CFCA RCA | [China Financial Certification Authority](http://www.cfca.com.cn) | AE73DFF81CF24E50DD52CA1496E7EF94876061CB
+CFCA Root CA | [China Financial Certification Authority](http://www.cfca.com.cn) | 31BD6AEF73031C5A49338E7A06040DD815EF7512
+CFCA RSA RCA | [China Financial Certification Authority](http://www.cfca.com.cn) | 57C5CEBB53FBF181E0B13977AF864F1C13F11AA9
+ROOTCA | [Office of the State Commercial Cryptography Administration](http://www.oscca.gov.cn) | DBB84423C928ABE889D0E368FC3191D151DDB1AB
+China Trust Network | [iTrusChina](http://www.itrus.com.cn) | C2CAEB0DC296FD50596BCA0F53C5364521167039
+China Trust Network | [iTrusChina](http://www.itrus.com.cn) | B39B0B24B156D8B6123CAF7BA249DC81F27E39FA
+China Trust Network | [iTrusChina](http://www.itrus.com.cn) | 7C88AE178AE6AB8E69C30AF586D84EF29B6E6AE3
+iTruschina CN Root CA-1 | [iTrusChina](http://www.itrus.com.cn) | 240A61A2577970625B9F0B81283C4AA4037217B1
+iTruschina CN Root CA-2 | [iTrusChina](http://www.itrus.com.cn) | 46F168AF009C28C18F452EB85F5E8747892B3C8B
+iTruschina CN Root CA-3 | [iTrusChina](http://www.itrus.com.cn) | 654E9FADD2032AE1B87D6263AF04FD7FEE38D57C
+eID MICRoot | [eID](eid.cn) | 6F5C880129BED8B05B14C391364FE5298E2ED5FA
+AnXin CA Root | [AnXin CA](http://www.jlca.com.cn) | 1D4A2E58C68F3F2D2659BC3BAB05CFA81F87B1E8
+BeiJing ROOT CA | [BEIJING CERTIFICATE AUTHORITY](http://www.bjca.org.cn) | EC98F4A5096282FB192FFB168A574236C5A7DC6C
+DongFang eTrust CA | [DongFang Electronic Certificate Center](https://toponeca.com) | 7AC8AD57C068F0D58442477EB5B0DE10AF09DFDA
+CWCA | [CWCA](http://www.cwca.com.cn) | 029A0990DC0B34838A6AAC9662A9A5E23DD7B554
+CWCA | [CWCA](http://www.cwca.com.cn) | 5A48E00BE8C9F33BDCAE3F61700675B4A3A3B6F3
+福建省运营根CA | [Fujian Digital Certificate Authority CO.,LTD](http://www.fjca.com.cn) | DD9DE879188E29AE9C6CEF546D6191B89A6B4F09
+GFA CA CERTIFICATE | [GFA](http://www.cacenter.com.cn) | A4BF39D18409E9F27B8833543E56B9434A603CFF
+Guangxi ROOT CA | [GUANGXI CERTIFICATE AUTHORITY LTD.](http://www.gxca.com.cn) | B3FAACDA0FFE817C3FC25B8D35FEC05A92314BDC
+HBCA | [HeBei Certificate Authority Co,.Ltd](http://www.hebca.com) | E67291FCE01AB748D5E473F5CA1C3915A7EC5C8E
+HNCA | [HENAN CERTIFICATE AUTHORITY](http://www.hnca.com.cn) | 3FF4124C794A11A26B49A14D005FD6D2BA5878F8
+HNCA | [HENAN CERTIFICATE AUTHORITY](http://www.hnca.com.cn) | DAB0CA93310A2507A7407F4879BA56D105AAD3C2
+JSCA_ROOT | [JiangSu CA](http://www.jsca.com.cn) | AA90ABA1EFA49F42772C7722F5A73A1C3936B811
+JSCA_ROOT | [JiangSu CA](http://www.jsca.com.cn) | 4389F7886936C6B6D5532562CBB5DA5B4DD2296B
+JXCA | [JIANGXI DIGITAL CERTIFICATE AUTHORITY CO,.LTD](http://www.jxca.org.cn) | 7A538FBBDE8EFDC125700718CC9B4A4BD9BA17E8
+NETCA Root ClassA | [CHINACOMSERVICE](http://www.cnca.net) | 2F6D7583B2CFD0F87698FB392C8B481058A280FB
+peihua-CA | [PEIHUA ADCS](http://rd.peihua.cn) | 82C5EAF859B5857D5DECD1BE6491E34E582D5BD8
+ROOT CERTIFICATE FOR GFA TRUST NETWORK | [GFA PKI](http://www.gfapki.com.cn) | C49ED789F979213F0096060DF131B04EAADAC921
+ROOT CERTIFICATE FOR GFA TRUST NETWORK | [GFA PKI](http://www.gfapki.com.cn) | C2859A597104BFC25B52EC15899A1999738AE13F
+ShanXi Digital Certificate Authority | [ShanXi Digital Certificate Authority](http://www.sxca.com.cn) | 10CF1AAD52AE48E1249F9718C3DCF8FB27B12BF6
+SZCA | [ShenZhen Certificate Authority Centre Co,.Ltd](http://www.szca.com.cn) | 90D7A97592F0A3E2165DE5DA23B57701D74A298D
+SZCA | [ShenZhen Certificate Authority Centre Co,.Ltd](http://www.szca.com.cn) | B0049D436F27237EE59C746A1EF3C96A8E1B54AC
+TianJinROOT | [Tian Jin CA](http://www.tj-ca.net) | 53826F5DEF4E3AD9FD73DCF1D04E110D6DF7FDD6
+UTrust Root CA | [ChinaUTrust](http://www.chinautrust.com) | 5070A0E2FA1DB04C2ED63461ECE36307AB3A863B
+xjcaRoot | [XIN JIANG CERTIFICATE AUTHORITY](http://www.xjca.com.cn) | 52A213B3CA8A5A5664D1BB9CF7A6A546C4E55973
+ZJRoot | [ZheJiang Certificate Authority](http://www.zjca.com.cn) | D65F531088EF11DD9BFA2BE437C906D44F9E9659
