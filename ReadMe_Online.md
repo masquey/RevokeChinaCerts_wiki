@@ -38,4 +38,22 @@
 * **iOS**: There are not any ways(Undocumented) to revoke any system root certificates in iOS.
 
 ### About Certifications
-See https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#hunman-readable-certificates-details
+* Details https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#hunman-readable-certificates-details
+* Base list
+
+Name | Organization | SHA-1
+----|------|----
+CNNIC ROOT | [China Internet Network Information Center](https://www.cnnic.net.cn) | 8BAF4C9B1DF02A92F7DA128EB91BACF498604B6F
+China Internet Network Information Center EV Certificates Root | [China Internet Network Information Center](https://evdemo.cnnic.cn) | 4F99AA93FB2BD13726A1994ACE7FF005F2935D1E
+GiantRootCA | [ZTGame](https://mail.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
+JGZXCA |  | 7A4AA61E2A88704115E47748D8647DAEE6837559
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+
+
+
