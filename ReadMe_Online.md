@@ -41,7 +41,7 @@
 * See [this Link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#hunman-readable-certificates-details) for details.
 * **Base** list
 
-Name | Authority| Date | SHA-1
+Name | Authority | Date | SHA-1
 ---|---|---|---
 github.com | Fake | 2013-01-25 | 27A29C3A8B3261770E8B59448557DC9E9339E68C
 google.com | Fake | 2014-09-01 | F6BEADB9BC02E0A152D71C318739CDECFC1C085D
@@ -58,3 +58,17 @@ CNNIC SSL | [Entrust.net Secure Server Certification Authority](http://www.entru
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sarft.gov.cn) | - | - | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | - | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 [*.wacc.baidu.com](https://wacc.n.shifen.com) | [Baidu, inc.](https://www.baidu.com) | - | 561422647B89BE22F203EBCAEF52B5007227510A
+
+* **Extended** list
+
+Name | Authority | Date | SHA-1
+---|---|---|---
+[CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn/) | 2011-06-13 | EABDA240440ABBD694930A01D09764C6C2D77966
+CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn/) | 2012-08-21 | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
+[CFCA EV ROOT](https://cs.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn/) | - | E2B8294B5584AB6B58C290466CAC3FB8398F8483
+[UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | - | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
+[UCA Root](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | - | 8250BED5A214433A66377CBC10EF83F669DA3A67
+UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 2012-05-19 | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
+UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 2013-03-28 | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
+[UCA ROOT](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | - | 3120F295417730075F8CD42D0CAE008EB5726EF8
+GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | - | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
