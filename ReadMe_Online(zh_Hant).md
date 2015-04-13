@@ -39,4 +39,4 @@
 * **iOS** 沒有任何官方提供的方法禁用自帶的根憑證，請放棄在 iOS 下禁用根憑證的想法
 
 ### 涉及的證書
-參見 https://github.com/chengr28/RevokeChinaCerts/wiki/ReadMe_CodeSigning_Organization#about-certificates
+參見 https://github.com/chengr28/RevokeChinaCerts/wiki/ReadMe_Online#about-certificates
