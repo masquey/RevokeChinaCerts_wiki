@@ -1,5 +1,6 @@
 ### Usage
 * Run `RevokeChinaCerts_Online.bat` and follow the messages on screen.
+* Run `RevokeChinaCerts_Firefox.bat` and follow the messages on screen if you want to revoke certificates in Firefox.
 * **Clear all browser(s) data and DNS cache of system**, and restart network interface(s).
 
 ### Version
