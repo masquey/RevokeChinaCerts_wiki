@@ -11,49 +11,63 @@
 * See [this(CodeSigning)](https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/CodeSigning/CodeSigning.md) and [this(Organization)](https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/Organization/Organization.md) link for more details.
 * **CodeSigning** list
 
-Name | Authority | SHA-1
+Name | Expired | Fingerprint
 :---:|:---:|---
-[Certification Authority of WoSign](https://www.wosign.com) | [UTN-USERFirst-Object](https://www.comodo.com) | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
-[WoSign Code Signing Authority](https://www.wosign.com) | [UTN-USERFirst-Object](https://www.comodo.com) | EA36152981E296F9763E1DC74B3262D3928563F8
-[WoTrust Code Signing Authority](https://www.wosign.com) | [UTN-USERFirst-Object](https://www.comodo.com) | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
-[福建博瑞网络科技有限公司](http://www.91.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
-[Baidu (China) Co., Ltd.](https://www.baidu.com) | [GlobalSign CodeSigning CA - G2](https://www.globalsign.com) | A34B70840C2B6F718877DDB1C2DE2C27F2C91C43
-[Baidu (China) Co., Ltd.](https://www.baidu.com) | [GlobalSign CodeSigning CA - G2](https://www.globalsign.com) | 0E6193159596F8150ED9ED2A402E67C28FAAC1BE
-[Beijing baidu Netcom science and technology co.ltd](https://www.baidu.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | D60C12D1FDB9E45551A00C8815CCD486C043945B
-[BeiJing Baidu Netcom Science Technology Co., Ltd](https://www.baidu.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 03FCF1B9FCAB6F7243F3E3E011C6FD28F64F9920
-[Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | CB6F65314E5B25D61304AB2C9C8870B574CC21F5
-[Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3
-[Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | [Thawte Code Signing CA - G2](https://www.thawte.com) | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
-[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | E88DD1ACD2DB3A352072AA49C675F4944A3FEF82
-[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | CC9467907AD45574588F4E16F29CA36D5F78C0F8
-[BEIJING KUWO TECHNOLOGY CO.,LTD.](http://www.kuwo.cn) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 5FFFD1A3EAE5ED74558913C4A8476D1514C6D61F
-[BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD.](http://www.iqiyi.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com)  | 5DC57AF121E3101F4BFEA8A22BBDADC0869C80EE
-[Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | D9421BEDD9F5B8A91DD3F8691E7A42D83C983325
-[Beijing Sohu New Media Information Technology Co., Ltd.](http://www.sohu.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | D1BB252CAC3D250C55978F7EAAF121DA91A17B42
-[Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 2529C0C0D833806AFBFA3C31987C19A18722A2FE
-[Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 2BDEC50B4446652C126709A08248E572B859CCCC
-[LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
-[Maxthon (Asia) Limited.](http://www.maxthon.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 1481414E8E87412A00D3341167FE3A92C681B830
-[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
-[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
-[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | E0387F3AF5752A4620EC617C39153C0E666CF5F8
-[PPLive Corporation](http://www.pptv.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
-[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 1E5BB77FCB63F26277F95AAE09B852699327A08A
-[Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 935140881F50BDF775D3CEF034C0D21C18FD2567
-[ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | [GlobalSign CodeSigning CA - G2](https://www.globalsign.com) | 4099665730474153EADF671B8B475C03C08A46D0
-[TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
-[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 8B46390D86B891E5A3D3AAB2B00D6FDB27A0F791
-[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
-[UC Mobile Limited](http://www.ucweb.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
-[Wandou Technology Ltd](http://www.wandoujia.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | AB09D1AFE555CFC580575F5BC78B16B9F1C4E432
-[Xiamen Yitianxia Network Technology Co., Ltd](http://) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | F49A648C69C2F01A0FDEB3992C5AE0A14D5AD9FC
-[杭州缪斯客网络科技有限公司](http://www.xiami.com) | [Thawte Code Signing CA - G2](https://www.thawte.com) | EEC507F719D5BA0CB913F034E045A24A509D8A5F
-[广东雨林木风计算机科技有限公司](http://www.ylmf.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | 93A77CA50F165A5873DD3995874867B616AB3644
-[YY Inc.](http://www.yy.com) | [VeriSign Class 3 Code Signing 2010 CA](https://www.verisign.com) | B3B89CD7940DC67E4291A3EE767AC17A3BC9E620
+[Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
+[WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
+[WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
+[2345.Com](http://www.2345.com) | 2016-05-23 | ‎B6070B587AFB5CEBECA17F2ACA02A0314CBC8839
+[上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | ‎645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
+‎3721.Com | 2005-01-20 | A28C8E7AE778009B5FA55825D94BE73ADAF6A16E
+[Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | ‎76F273B12A88EAB4B086DEB23875E35710446DA7
+[福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
+[Baidu (China) Co., Ltd.](https://www.baidu.com) | 2015-02-22 | A34B70840C2B6F718877DDB1C2DE2C27F2C91C43
+[Baidu (China) Co., Ltd.](https://www.baidu.com) | 2017-02-12 | 0E6193159596F8150ED9ED2A402E67C28FAAC1BE
+[Beijing baidu Netcom science and technology co.ltd](https://www.baidu.com) | 2015-02-27 | D60C12D1FDB9E45551A00C8815CCD486C043945B
+[BeiJing Baidu Netcom Science Technology Co., Ltd](https://www.baidu.com) | 2015-02-07 | 03FCF1B9FCAB6F7243F3E3E011C6FD28F64F9920
+[Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2015-02-22 | CB6F65314E5B25D61304AB2C9C8870B574CC21F5
+[Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2016-04-06 | CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3
+[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2015-07-02 | ‎7909C1ABCD50813B0C3004E7468A3CC4BFAAE34D
+[Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | 2016-08-02 | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2013-07-12 | ‎8E853D78D6BB8E2911E0F102827C19126D290E36
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2014-08-30 | ‎D02D3BB43F3AFD9D6C77884E2CE4A8E3E47DD07B
+[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2014-12-26 | E88DD1ACD2DB3A352072AA49C675F4944A3FEF82
+[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2015-01-29 | CC9467907AD45574588F4E16F29CA36D5F78C0F8
+[BEIJING KUWO TECHNOLOGY CO.,LTD.](http://www.kuwo.cn) | 2017-01-03 | 5FFFD1A3EAE5ED74558913C4A8476D1514C6D61F
+[BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD.](http://www.iqiyi.com) | 2017-02-10 | 5DC57AF121E3101F4BFEA8A22BBDADC0869C80EE
+[Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2015-08-11 | D9421BEDD9F5B8A91DD3F8691E7A42D83C983325
+[Beijing Sohu New Media Information Technology Co., Ltd.](http://www.sohu.com) | 2014-11-29 | D1BB252CAC3D250C55978F7EAAF121DA91A17B42
+[FOX INFORMATION TECHNOLOGY (TIANJIN) LIMITED](http://www.sohu.com) | 2017-12-31 | 89FB07619BFEC398C258221AB54DB5D761F061FA
+[中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | ‎40B33FA24481DEF470BF2CDF88BABB8754C8489A
+[China Mobile Group Guangdong Co., Ltd. Mobile Internet Branch](http://gd.10086.cn) | 2016-01-09 | ‎14DE17539FF05E234FAAFAE49CD30870ABD2F5F7
+[Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2015-08-19 | 2529C0C0D833806AFBFA3C31987C19A18722A2FE
+[Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | 2016-08-06 | 2BDEC50B4446652C126709A08248E572B859CCCC
+[LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
+[Maxthon (Asia) Limited.](http://www.maxthon.com) | 2015-07-15 | 1481414E8E87412A00D3341167FE3A92C681B830
+[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
+[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2017-02-19 | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
+[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-01-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
+[PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
+[Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
+[ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
+[ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
+[Sougou.Com](http://www.sougou.com) | 2012-07-15 | ‎34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
+[Sougou.Com](http://www.sougou.com) | 2015-08-25 | ‎A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
+[TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | ‎1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
+[TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
+[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2013-01-26 | 8B46390D86B891E5A3D3AAB2B00D6FDB27A0F791
+[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
+[UC Mobile Limited](http://www.ucweb.com) | 2015-01-06 | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
+[Wandou Technology Ltd](http://www.wandoujia.com) | 2015-06-03 | AB09D1AFE555CFC580575F5BC78B16B9F1C4E432
+[Xiamen Yitianxia Network Technology Co., Ltd](http://www.haozhuodao.com) | 2015-01-02 | F49A648C69C2F01A0FDEB3992C5AE0A14D5AD9FC
+[杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
+[广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
+[YY Inc.](http://www.yy.com) | 2015-09-21 | B3B89CD7940DC67E4291A3EE767AC17A3BC9E620
 
 * **Organization** list
 
-Name | Authority | SHA-1
+Name | Authority | Fingerprint
 :---:|:---:|---
 ABC2048 | [Agricultural Bank of China](http://www.abchina.com) | 6FAE9AD81467C5FCB93574670F52C8EF538F8B6D
 ABC | [Agricultural Bank of China](http://www.abchina.com) | 78D0CDF5752D1E5B58A674644CFE3499BF02F9EF
