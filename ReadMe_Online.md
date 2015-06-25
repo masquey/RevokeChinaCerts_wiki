@@ -42,7 +42,7 @@
 * See [this link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#human-readable-certificates-details) for more details.
 * **Base** list
 
-Name | Authority | SHA-1
+Name | Authority | Fingerprint
 :---:|:---:|---
 github.com | Fake | 27A29C3A8B3261770E8B59448557DC9E9339E68C
 google.com | Fake | F6BEADB9BC02E0A152D71C318739CDECFC1C085D
@@ -62,7 +62,7 @@ Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D
 
 * **Extended** list
 
-Name | Authority | SHA-1
+Name | Authority | Fingerprint
 :---:|:---:|---
 [CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn/) | EABDA240440ABBD694930A01D09764C6C2D77966
 CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn/) | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
