@@ -112,3 +112,6 @@ TWCA Root Certification Authority(2) | [TWCA](https://www.twca.com.tw) | DF646DC
 TaiCA Secure CA | [GTE CyberTrust Global Root](http://www.verizonenterprise.com) | 5B404B6DB43E1F71557F75552E7668289B1B6309
 TWCA Secure CA | [Baltimore CyberTrust Root](http://www.verizonenterprise.com) | 3F3E6C4B33802A2FEA46C5CACA14770A40018899
 TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
+TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
+GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | ‎742CA08594ABA62CE76E94386EA75A98712F02EA
+GDCA TrustAUTH R5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
