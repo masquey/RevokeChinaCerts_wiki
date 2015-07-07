@@ -15,7 +15,8 @@
 
 ### Attention
 * Delete certificates cannot revoke them. You must add the certificates to CRL to disable them(or call Revoke).
-* You must run the revoking or restoring batches in all users on Windows.
+* There is no difference between Administrator permissions or not to revoke certificates.
+* **You must run the revoking or restoring batches in all users on Windows.**
 * Most of Windows programs, Chrome and Opera is using system certificate list.
 
 ### Usage(without Automation tools)
