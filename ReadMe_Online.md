@@ -82,6 +82,7 @@ GDCA TrustAUTH R5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.
 Name | Authority | SHA-1
 :---:|:---:|---
 [SRCA](https://kyfw.12306.cn) | [Sinorail Certification Authority](http://www.12306.cn) | AE3F2E66D48FC6BD1DF131E89D768D505DF14302
+[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | ‎8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
 [Certification Authority of WoSign](https://root1evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | B94294BF91EA8FB64BE61097C7FB001359B676CB
 [CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
 Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
