@@ -60,6 +60,7 @@ CNNIC SSL | [Entrust.net Secure Server Certification Authority](http://www.entru
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sarft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 [*.wacc.baidu.com](https://wacc.n.shifen.com) | [Baidu, inc.](https://www.baidu.com) | 561422647B89BE22F203EBCAEF52B5007227510A
+eDellRoot | [Dell Inc.](https://www.dell.com) | 98A04E4163357790C4A79E6D713FF0AF51FE6927
 
 * **Extended** list
 
