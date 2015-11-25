@@ -23,6 +23,17 @@
 * 大部分程序和 Chrome 以及 Opera 浏览器均使用系统内置提供的证书列表
 * **Firefox** 中对自带根证书执行 `删除或不信任` 操作就相当于是禁用其所有目的，并不会将根证书本身删除
 
+### Windows 系統證書清單升級
+* **1** 為升級 **CRL/憑證撤銷清單**
+* **2** 為通過 **SST** 資料庫的方法升級 **CTL/憑證信任清單**
+* **3** 為通過 **RootSUPD** 證書更新補丁升級 **CTL/憑證信任清單**
+* 要重置對證書清單的所有更改，需要運行 Microsoft Fixit 工具並重啟系統：
+    * **Microsoft_Fixit_20135.diagcab** - 適用于 Windows Vista 以及更新的版本
+    * **Microsoft_Fixit_51014.msi** - 適用于 Windows XP/2003 以及以前的版本
+* 資料庫的長期更新：
+    * SST 資料庫可通過 [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) 中提供的位址獲取，得到的 CAB -> STL 證書清單可通過系統自帶的 Certutil 工具使用 generateSSTFromWU 和 syncWithWU 參數下載到含有證書本體的 SST 資料庫，其可供 Certmgr 直接使用。 具體情況參見 [Configure Trusted Roots and Disallowed Certificates](https://technet.microsoft.com/en-us/library/dn265983.aspx)
+    * [KB931125/RootSUPD](https://support.microsoft.com/en-us/kb/931125) 隨著對 Windows XP 支援期的結束，可能不再會有更新
+
 ### 其它平臺非全自動工具吊銷方法
 * **Linux**(以 Debian 系為例，其它 Linux 發行版本操作方法參見其官方說明)
     * 打開終端並執行 `sudo dpkg-reconfigure ca-certificates`
