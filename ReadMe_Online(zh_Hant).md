@@ -31,7 +31,7 @@
     * **Microsoft_Fixit_20135.diagcab** - 適用于 Windows Vista 以及更新的版本
     * **Microsoft_Fixit_51014.msi** - 適用于 Windows XP/2003 以及以前的版本
 * 資料庫的長期更新：
-    * SST 資料庫可通過 [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) 中提供的位址獲取，得到的 CAB -> STL 證書清單可通過系統自帶的 Certutil 工具使用 generateSSTFromWU 和 syncWithWU 參數下載到含有證書本體的 SST 資料庫，其可供 Certmgr 直接使用。 具體情況參見 [Configure Trusted Roots and Disallowed Certificates](https://technet.microsoft.com/en-us/library/dn265983.aspx)
+    * SST 資料庫可通過 [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) 中提供的位址獲取，得到的 CAB -> STL 證書清單可通過系統自帶的 Certutil 工具使用 `generateSSTFromWU` 和 `syncWithWU` 參數下載到含有證書本體的 SST 資料庫，其可供 Certmgr 直接使用。 具體情況參見 [Configure Trusted Roots and Disallowed Certificates](https://technet.microsoft.com/en-us/library/dn265983.aspx)
     * [KB931125/RootSUPD](https://support.microsoft.com/en-us/kb/931125) 隨著對 Windows XP 支援期的結束，可能不再會有更新
 
 ### 其它平臺非全自動工具吊銷方法
