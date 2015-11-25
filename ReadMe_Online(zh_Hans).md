@@ -1,7 +1,10 @@
 ### 使用方法
-* 运行 `RevokeChinaCerts_Online.bat` 并根据提示进行操作即可
-* 如需对 Firefox 使用，另外运行 `RevokeChinaCerts_Firefox.bat` 并根据提示进行操作即可
-* **操作完毕后请务必清空所有浏览器数据和系统缓存**，并建议并重启网络连接
+* 运行批处理，并根据提示操作即可(Windows)：
+    * `RevokeChinaCerts_Online.bat` - 系统内置证书列表
+    * `RevokeChinaCerts_Firefox.bat` - Firefox 浏览器
+    * 如需同时禁用，则需要分别运行批处理
+* 其它平台的全自动工具吊销的方法，参见各平台目录页面的介绍
+* **操作完毕后请务必清空所有浏览器数据和系统缓存**，并建议重启网络连接
 
 ### 批处理/脚本类型
 * **1** 为 **Base/基础版本**：删除信任并吊销了几个可疑的根证书、中级证书或假证书
@@ -13,11 +16,11 @@
 * **部分安全软件的 HTTPS 扫描功能可能会利用中间人攻击的方法自己签发 CA 证书对加密内容进行扫描，此类功能会直接导致本工具完全失效，强烈建议关闭此类功能或者将其彻底卸载！**
 * **Extended** 版和 **All** 版会自动吊销 GoAgent 自带的 `GoAgent CA` 证书，为免使用 GoAgent 时出现错误同时也为了系统加密连接的安全强烈建议更换其自带的 CA 根证书。**关闭所有 GoAgent 程序，进入其 `local` 目录删除 `CA.crt` 以及整个 `certs` 目录，然后清空所有浏览器数据重启 GoAgent 和浏览器即可。**
 
-### 注意事项
-* 本工具先将列表中的证书删除，再将这些证书添加到 CRL 证书吊销列表中，在 CRL 证书吊销列表中的证书才能被彻底禁用。**直接将证书直接删除并没有任何作用，下次访问使用该证书的网站时会重新自动联网添加**
-* 由于 Windows 系统的机制，吊销时使用普通权限与使用管理员权限运行批处理并没有区别，可随意选择。同时**由于 Windows 系统下每个用户使用独立的证书列表，需要所有用户都运行一次本工具才能彻底禁用证书的使用！**
-* 运行时如果遇到 `Error: Can not find a certificate matching the hash value` 或 `Failed to save to the destination store` 等不需要在意，只要添加吊销证书时出现 `CertMgr Succeeded` 即可
-* 大部分 Windows 的程序和 **Chrome** 以及 **Opera** 浏览器使用 Windows 系统提供的证书列表
+### Windows 系统注意事项
+* 本工具先将列表中的证书删除，再将这些证书添加到 CRL 证书吊销列表中，在 CRL 证书吊销列表中的证书才能被彻底禁用。**直接将 CTL 证书信任列表中的证书删除并没有任何作用，下次访问使用该证书的网站时会重新自动联网添加！**
+* 吊销时使用普通权限与使用管理员权限运行批处理并没有区别，可随意选择。**由于 Windows 系统下每个用户使用独立的证书列表，需要所有用户都运行一次本工具才能彻底禁用证书的使用！**
+* 运行遇到 `Error: Can not find a certificate matching the hash value` 或 `Failed to save to the destination store` 为正常现象，只要添加吊销证书时出现 `CertMgr Succeeded` 并通过实际访问网站测试即可
+* 大部分程序和 Chrome 以及 Opera 浏览器均使用系统内置提供的证书列表
 * **Firefox** 中对自带根证书执行 `删除或不信任` 操作就相当于是禁用其所有目的，并不会将根证书本身删除
 
 ### 其它平台非全自动工具吊销方法
@@ -38,7 +41,7 @@
     * `设置` - `安全` - `受信任的凭据(显示受信任的CA证书)`
     * 点击进入需要禁用的证书并下拉到最下面，点击 `禁用` 按钮即可
     * 操作完毕建议清空所有浏览器数据和系统缓存，并重启网络连接
-* **iOS** 没有任何官方提供的方法禁用自带的根证书，请放弃在 iOS 下禁用根证书的想法
+* **iOS** 没有任何官方渠道禁用自带的根证书，请放弃在 iOS 下禁用根证书的想法
 
 ### 涉及的证书
 参见 https://github.com/chengr28/RevokeChinaCerts/wiki/ReadMe_Online#about-certificates
