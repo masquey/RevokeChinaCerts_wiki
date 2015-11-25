@@ -8,8 +8,10 @@
 
 ### 批处理/脚本类型
 * **1** 为 **Base/基础版本**：删除信任并吊销了几个可疑的根证书、中级证书或假证书
-* **2** 为 **Extended/扩展版本**：删除信任并吊销了所有可疑的根证书、中级证书或假证书，**建议使用此版本**
-* **3** 为 **All/完全版本**：删除信任并吊销了所有可疑的来自大中华地区的证书，**此版本用于测试不建议使用**
+* **2** 为 **Extended/扩展版本**：删除信任并吊销了所有可疑的根证书、中级证书或假证书
+    * **建议使用此版本**
+* **3** 为 **All/完全版本**：删除信任并吊销了所有可疑的来自大中华地区的证书
+    * **此版本用于测试不建议使用**
 * **4** 为 **Restore/恢复版本**：可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
 
 ### 特別提醒
@@ -22,6 +24,17 @@
 * 运行遇到 `Error: Can not find a certificate matching the hash value` 或 `Failed to save to the destination store` 为正常现象，只要添加吊销证书时出现 `CertMgr Succeeded` 并通过实际访问网站测试即可
 * 大部分程序和 Chrome 以及 Opera 浏览器均使用系统内置提供的证书列表
 * **Firefox** 中对自带根证书执行 `删除或不信任` 操作就相当于是禁用其所有目的，并不会将根证书本身删除
+
+### Windows 系统证书列表升级
+* **1** 为升级 **CRL/证书吊销列表**
+* **2** 为通过 **SST** 数据库的方法升级 **CTL/证书信任列表**
+* **3** 为通过 **RootSUPD** 证书更新补丁升级 **CTL/证书信任列表**
+* 要重置对证书列表的所有更改，需要运行 Microsoft Fixit 工具并重启系统：
+    * **Microsoft_Fixit_20135.diagcab** - 适用于 Windows Vista 以及更新的版本
+    * **Microsoft_Fixit_51014.msi** - 适用于 Windows XP/2003 以及以前的版本
+* 数据库的长期更新：
+    * SST 数据库可通过 [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) 中提供的地址获取，得到的 CAB -> STL 证书列表可通过系统自带的 Certutil 工具使用 generateSSTFromWU 和 syncWithWU 参数下载到含有证书本体的 SST 数据库，其可供 Certmgr 直接使用。具体情况参见 [Configure Trusted Roots and Disallowed Certificates](https://technet.microsoft.com/en-us/library/dn265983.aspx)
+    * [KB931125/RootSUPD](https://support.microsoft.com/en-us/kb/931125) 随着对 Windows XP 支持期的结束，可能不再会有更新
 
 ### 其它平台非全自动工具吊销方法
 * **Linux**(以 Debian 系为例，其它 Linux 发行版操作方法参见其官方说明)
