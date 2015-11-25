@@ -22,6 +22,17 @@
 * **You must run the revoking or restoring batches in all users in system.**
 * Most of programs, Chrome and Opera are using system certificate list.
 
+### Update(Windows)
+* Update **CRL**/Certificate Revocation List
+* Update **CTL**/Certificate Trust List(**SST**)
+* Update **CTL**/Certificate Trust List(**RootSUPD**)
+* To reset all certificate lists, do not choose any options. Exit batch and use Microsoft Fixit tools:
+    * **Microsoft_Fixit_20135.diagcab** - Windows Vista and later
+    * **Microsoft_Fixit_51014.msi** - Windows XP/2003 and older
+* SST database:
+    * SST database can be found in [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) and CAB-> STL(Certificate fingerprint list) can be indexed with Certutil tool. Certutil tool can download certificates with STL(`generateSSTFromWU` and `syncWithWU` parameters). About this, see [Configure Trusted Roots and Disallowed Certificates](https://TechNet.Microsoft.com/en-us/library/dn265983.aspx)
+    * [KB931125/RootSUPD](https://support.Microsoft.com/en-us/KB/931125) with the end of support for Windows XP is no longer be updated.
+
 ### Usage(without Automation tools)
 * **Linux**(Debian, other Linux distributions should need to see its official description)
     * Run `sudo dpkg-reconfigure ca-certificates` in terminal.
