@@ -1,7 +1,10 @@
 ### Usage
-* Run `RevokeChinaCerts_Online.bat` and follow the messages on screen.
-* Run `RevokeChinaCerts_Firefox.bat` and follow the messages on screen if you want to revoke certificates in Firefox.
-* **Clear all browser(s) data and DNS cache of system**, and restart network interface(s).
+* Run batch and follow the messages on screen(Windows):
+    * `RevokeChinaCerts_Online.bat` - Windows built-in certificate lists
+    * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate lists
+    * Run all batches to revoke certificates in all supported lists.
+* See other system folders to revoke certificates in other platforms.
+* **Clear all browser(s) data/DNS cache of system** and restart network interface(s).
 
 ### Version
 * **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
@@ -10,14 +13,14 @@
 * **Restore** is the restore batch, which can restore all revoked certificates.
 
 ### Special
-* **Some security software will "protect" HTTPS transport with MITM/Man-in-the-middle attack, you must shutdown those modules or uninstall the software!**
+* **Some security software will "protect" HTTPS transport with MITM/Man-in-the-middle attack, you must shutdown/uninstall these modules/softwares!**
 * **Extended** and **All** version will revoke `GoAgent CA` using in GoAgent. Please delete `CA.crt` and `certs` folder in GoAgent program folder(if it exists). Finally, clear all browser(s) data and DNS cache of system, restart network interface(s) and restart GoAgent.
 
-### Attention
-* Delete certificates cannot revoke them. You must add the certificates to CRL to disable them(or call Revoke).
+### Attention(Windows)
+* Delete certificates cannot revoke them. You must add the certificates to CRL to prohibit all their uses.
 * There is no difference between Administrator permissions or not to revoke certificates.
-* **You must run the revoking or restoring batches in all users on Windows.**
-* Most of Windows programs, Chrome and Opera is using system certificate list.
+* **You must run the revoking or restoring batches in all users in system.**
+* Most of programs, Chrome and Opera are using system certificate list.
 
 ### Usage(without Automation tools)
 * **Linux**(Debian, other Linux distributions should need to see its official description)
