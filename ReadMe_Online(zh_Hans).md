@@ -1,5 +1,5 @@
 ### 使用方法
-* 运行批处理，并根据提示操作即可(Windows)：
+* **以管理员权限运行**批处理，并根据提示操作即可(Windows)：
     * `RevokeChinaCerts_Online.bat` - 系统内置证书列表
     * `RevokeChinaCerts_Firefox.bat` - Firefox 浏览器
     * 如需同时禁用，则需要分别运行批处理
@@ -20,7 +20,6 @@
 
 ### Windows 系统注意事项
 * 本工具先将列表中的证书删除，再将这些证书添加到 CRL 证书吊销列表中，在 CRL 证书吊销列表中的证书才能被彻底禁用。**直接将 CTL 证书信任列表中的证书删除并没有任何作用，下次访问使用该证书的网站时会重新自动联网添加！**
-* 吊销时使用普通权限与使用管理员权限运行批处理并没有区别，可随意选择。**由于 Windows 系统下每个用户使用独立的证书列表，需要所有用户都运行一次本工具才能彻底禁用证书的使用！**
 * 运行遇到 `Error: Can not find a certificate matching the hash value` 或 `Failed to save to the destination store` 为正常现象，只要添加吊销证书时出现 `CertMgr Succeeded` 并通过实际访问网站测试即可
 * 大部分程序和 Chrome 以及 Opera 浏览器均使用系统内置提供的证书列表
 * **Firefox** 中对自带根证书执行 `删除或不信任` 操作就相当于是禁用其所有目的，并不会将根证书本身删除
