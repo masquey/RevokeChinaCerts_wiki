@@ -1,5 +1,5 @@
 ### Usage
-* Run batch and follow the messages on screen(Windows):
+* Run batch **with Administrator permissions** and follow the messages on screen(Windows):
     * `RevokeChinaCerts_Online.bat` - Windows built-in certificate lists
     * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate lists
     * Run all batches to revoke certificates in all supported lists.
@@ -18,8 +18,6 @@
 
 ### Attention(Windows)
 * Delete certificates cannot revoke them. You must add the certificates to CRL to prohibit all their uses.
-* There is no difference between Administrator permissions or not to revoke certificates.
-* **You must run the revoking or restoring batches in all users in system.**
 * Most of programs, Chrome and Opera are using system certificate list.
 
 ### Update(Windows)
