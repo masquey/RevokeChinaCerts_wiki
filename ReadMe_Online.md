@@ -24,7 +24,8 @@
 * Update **CRL**/Certificate Revocation List
 * Update **CTL**/Certificate Trust List(**SST**)
 * Update **CTL**/Certificate Trust List(**RootSUPD**)
-* To reset all certificate lists, do not choose any options. Exit batch and use Microsoft Fixit tools:
+* Reset **CRL**/Certificate Revocation List
+* To reset all CTL/Certificate Trust List, do not choose any options. Exit batch and use Microsoft Fixit tools:
     * **Microsoft_Fixit_20135.diagcab** - Windows Vista and later
     * **Microsoft_Fixit_51014.msi** - Windows XP/2003 and older
 * SST database:
