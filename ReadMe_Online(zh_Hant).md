@@ -18,15 +18,18 @@
 
 ### Windows 系统注意事项
 * 本工具先将列表中的证书删除，再将这些证书添加到 CRL 证书吊销列表中，在 CRL 证书吊销列表中的证书才能被彻底禁用。**直接将 CTL 证书信任列表中的证书删除并没有任何作用，下次访问使用该证书的网站时会重新自动联网添加！**
-* 运行遇到 `Error: Can not find a certificate matching the hash value` 或 `Failed to save to the destination store` 为正常现象，只要添加吊销证书时出现 `CertMgr Succeeded` 并通过实际访问网站测试即可
 * 大部分程序和 Chrome 以及 Opera 浏览器均使用系统内置提供的证书列表
 * **Firefox** 中对自带根证书执行 `删除或不信任` 操作就相当于是禁用其所有目的，并不会将根证书本身删除
+* 遇到錯誤 `Error: Can not find a certificate matching the hash value` 為正常現象，只要添加吊銷證書時出現 `CertMgr Succeeded` 並通過實際訪問網站測試即可
+* 遇到錯誤 `Failed to save to the destination store` 可能為對應許可權錯誤，要對當前使用者的證書清單進行修改必須不能使用管理員許可權，要對電腦全域證書清單進行修改必須使用管理員許可權
+* 遇到錯誤 `Error: Failed to add or delete certificates` 可能為由於證書清單為空 CertMgr 程式操作錯誤導致
 
 ### Windows 系統證書清單升級
 * **1** 為升級 **CRL/憑證撤銷清單**
 * **2** 為通過 **SST** 資料庫的方法升級 **CTL/憑證信任清單**
 * **3** 為通過 **RootSUPD** 證書更新補丁升級 **CTL/憑證信任清單**
-* 要重置對證書清單的所有更改，需要運行 Microsoft Fixit 工具並重啟系統：
+* **4** 為重置 **CRL/憑證撤銷清單**
+* 要重置對CTL/憑證信任清單的更改，需要運行 Microsoft Fixit 工具並重啟系統：
     * **Microsoft_Fixit_20135.diagcab** - 適用于 Windows Vista 以及更新的版本
     * **Microsoft_Fixit_51014.msi** - 適用于 Windows XP/2003 以及以前的版本
 * 資料庫的長期更新：
