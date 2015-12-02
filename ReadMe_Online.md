@@ -74,6 +74,7 @@ CNNIC SSL | [Entrust.net Secure Server Certification Authority](http://www.entru
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 [*.wacc.baidu.com](https://wacc.n.shifen.com) | [Baidu, inc.](https://www.baidu.com) | 561422647B89BE22F203EBCAEF52B5007227510A
 eDellRoot | [Dell Inc.](https://www.dell.com) | 98A04E4163357790C4A79E6D713FF0AF51FE6927
+DSDTestProvider | [Dell Inc.](https://www.dell.com) | 02C2D931062D7B1DC2A5C7F5F0685064081FB221
 
 * **Extended** list
 
