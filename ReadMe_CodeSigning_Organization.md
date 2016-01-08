@@ -39,6 +39,7 @@ Name | Expire Time | Fingerprint
 [WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
 [WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
 [YY Inc.](http://www.yy.com) | 2018-10-16 | ‎0C4D32BB2623387CD40C252DDB0F650DE6373385
+[Zhuhai Kingsoft Office Software Co.,Ltd](http://www.wps.cn) | 2017-04-20 | FA78FD28C1370371E8461D743114BAF1CD08A368
 [福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
 [广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
 [合一网络技术（北京）有限公司](http://www.youku.com) | ‎2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
