@@ -58,7 +58,6 @@ Name | Expire Time | Fingerprint
 [Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2013-07-12 | ‎8E853D78D6BB8E2911E0F102827C19126D290E36
 [Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2014-08-30 | ‎D02D3BB43F3AFD9D6C77884E2CE4A8E3E47DD07B
 [Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2014-12-26 | E88DD1ACD2DB3A352072AA49C675F4944A3FEF82
-[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2015-01-29 | CC9467907AD45574588F4E16F29CA36D5F78C0F8
 [Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2015-08-11 | D9421BEDD9F5B8A91DD3F8691E7A42D83C983325
 [Beijing Sohu New Media Information Technology Co., Ltd.](http://www.sohu.com) | 2014-11-29 | D1BB252CAC3D250C55978F7EAAF121DA91A17B42
 [China Mobile Group Guangdong Co., Ltd. Mobile Internet Branch](http://gd.10086.cn) | 2016-01-09 | ‎14DE17539FF05E234FAAFAE49CD30870ABD2F5F7
