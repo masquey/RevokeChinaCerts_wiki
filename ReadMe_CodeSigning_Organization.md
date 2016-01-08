@@ -8,40 +8,48 @@
 * **3** is **Restore** version, it can restore all listed revoking CodeSigning/Organization certificates.
 
 ### About Certificates
-* See [this(CodeSigning)](https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/CodeSigning/CodeSigning.md) and [this(Organization)](https://github.com/chengr28/RevokeChinaCerts/blob/master/Windows/Certificates/Organization/Organization.md) link for more details.
 * Latest **CodeSigning** list
 
 Name | Expire Time | Fingerprint
 :---:|:---:|---
-[Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
-[WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
-[WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
 [2345.Com](http://www.2345.com) | 2016-05-23 | ‎B6070B587AFB5CEBECA17F2ACA02A0314CBC8839
-[福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
 [Baidu (China) Co., Ltd.](https://www.baidu.com) | 2017-02-12 | 0E6193159596F8150ED9ED2A402E67C28FAAC1BE
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2016-04-06 | CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3
+‎[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2018-08-07 | 4893C5890F8DA1AFE9DF91EE3AE678B2AC782F41
 [Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | 2016-08-02 | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2017-11-03 | ‎‎C555780B84AEFA9BAAE26FDA390138713157B6AF
+[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2016-01-29 | ‎CC9467907AD45574588F4E16F29CA36D5F78C0F8
 [BEIJING KUWO TECHNOLOGY CO.,LTD.](http://www.kuwo.cn) | 2017-01-03 | 5FFFD1A3EAE5ED74558913C4A8476D1514C6D61F
 [BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD.](http://www.iqiyi.com) | 2017-02-10 | 5DC57AF121E3101F4BFEA8A22BBDADC0869C80EE
+[Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2018-09-08 | ‎6D6AFC4A6E24B3441B872B9995E37CA8D2BC4609
+[Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
 [FOX INFORMATION TECHNOLOGY (TIANJIN) LIMITED](http://www.sohu.com) | 2017-12-31 | 89FB07619BFEC398C258221AB54DB5D761F061FA
-[中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | ‎40B33FA24481DEF470BF2CDF88BABB8754C8489A
+[Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2018-07-13 | ‎6505AD4DC89D1E592A47E839359E6918A0407EBF
+[Haiyu Dongxiang Co.,Ltd](http://www.droid4x.cn) | 2016-08-26 | 0C763003F5360492F9A90B5156E0387961F04993
 [Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | 2016-08-06 | 2BDEC50B4446652C126709A08248E572B859CCCC
 [LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
-[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2017-02-19 | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
+[Maxthon (Asia) Limited.](http://www.maxthon.com) | 2018-08-28 | ‎5C7961E4A7020975FF67414435FA934BA87D1366
 [NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-01-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
+[PPLive Corporation](http://www.pptv.com) | 2019-01-25 | ‎B8DE8DBF3807F94364D4978766814637522D660C
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
+[Sogou.Com](http://www.sogou.com) | 2018-09-29 | ‎EB71F776677A00EA1DDBF1358A649E948836452A
 [TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
+[WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
+[WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
+[YY Inc.](http://www.yy.com) | 2018-10-16 | ‎0C4D32BB2623387CD40C252DDB0F650DE6373385
+[福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
 [广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
+[合一网络技术（北京）有限公司](http://www.youku.com) | ‎2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
+[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2017-02-19 | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
+[中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | ‎40B33FA24481DEF470BF2CDF88BABB8754C8489A
 
 * Expired **CodeSigning** list
 
 Name | Expire Time | Fingerprint
 :---:|:---:|---
-[上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | ‎645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
 ‎3721.Com | 2005-01-20 | A28C8E7AE778009B5FA55825D94BE73ADAF6A16E
-[Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | ‎76F273B12A88EAB4B086DEB23875E35710446DA7
 [Baidu (China) Co., Ltd.](https://www.baidu.com) | 2015-02-22 | A34B70840C2B6F718877DDB1C2DE2C27F2C91C43
 [Beijing baidu Netcom science and technology co.ltd](https://www.baidu.com) | 2015-02-27 | D60C12D1FDB9E45551A00C8815CCD486C043945B
 [BeiJing Baidu Netcom Science Technology Co., Ltd](https://www.baidu.com) | 2015-02-07 | 03FCF1B9FCAB6F7243F3E3E011C6FD28F64F9920
@@ -55,8 +63,8 @@ Name | Expire Time | Fingerprint
 [Beijing Sohu New Media Information Technology Co., Ltd.](http://www.sohu.com) | 2014-11-29 | D1BB252CAC3D250C55978F7EAAF121DA91A17B42
 [China Mobile Group Guangdong Co., Ltd. Mobile Internet Branch](http://gd.10086.cn) | 2016-01-09 | ‎14DE17539FF05E234FAAFAE49CD30870ABD2F5F7
 [Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2015-08-19 | 2529C0C0D833806AFBFA3C31987C19A18722A2FE
+[Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | ‎76F273B12A88EAB4B086DEB23875E35710446DA7
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2015-07-15 | 1481414E8E87412A00D3341167FE3A92C681B830
-[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
 [PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
 [Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
 [ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
@@ -67,8 +75,10 @@ Name | Expire Time | Fingerprint
 [UC Mobile Limited](http://www.ucweb.com) | 2015-01-06 | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
 [Wandou Technology Ltd](http://www.wandoujia.com) | 2015-06-03 | AB09D1AFE555CFC580575F5BC78B16B9F1C4E432
 [Xiamen Yitianxia Network Technology Co., Ltd](http://www.haozhuodao.com) | 2015-01-02 | F49A648C69C2F01A0FDEB3992C5AE0A14D5AD9FC
-[杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
 [YY Inc.](http://www.yy.com) | 2015-09-21 | B3B89CD7940DC67E4291A3EE767AC17A3BC9E620
+[杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
+[上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | ‎645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
+[厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
 
 * **Organization** list
 
@@ -102,7 +112,7 @@ China Trust Network | [iTrusChina](http://www.itrus.com.cn) | 7C88AE178AE6AB8E69
 iTruschina CN Root CA-1 | [iTrusChina](http://www.itrus.com.cn) | 240A61A2577970625B9F0B81283C4AA4037217B1
 iTruschina CN Root CA-2 | [iTrusChina](http://www.itrus.com.cn) | 46F168AF009C28C18F452EB85F5E8747892B3C8B
 iTruschina CN Root CA-3 | [iTrusChina](http://www.itrus.com.cn) | 654E9FADD2032AE1B87D6263AF04FD7FEE38D57C
-eID MICRoot | [eID](eid.cn) | 6F5C880129BED8B05B14C391364FE5298E2ED5FA
+eID MICRoot | [eID](http://eid.cn) | 6F5C880129BED8B05B14C391364FE5298E2ED5FA
 AnXin CA Root | [AnXin CA](http://www.jlca.com.cn) | 1D4A2E58C68F3F2D2659BC3BAB05CFA81F87B1E8
 BeiJing ROOT CA | [BEIJING CERTIFICATE AUTHORITY](http://www.bjca.org.cn) | EC98F4A5096282FB192FFB168A574236C5A7DC6C
 DongFang eTrust CA | [DongFang Electronic Certificate Center](https://toponeca.com) | 7AC8AD57C068F0D58442477EB5B0DE10AF09DFDA
