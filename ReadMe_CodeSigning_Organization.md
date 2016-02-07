@@ -29,13 +29,14 @@ Name | Expire Time | Fingerprint
 [Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | 2016-08-06 | 2BDEC50B4446652C126709A08248E572B859CCCC
 [LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2018-08-28 | ‎5C7961E4A7020975FF67414435FA934BA87D1366
-[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-01-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
+[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-06-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
 [PPLive Corporation](http://www.pptv.com) | 2019-01-25 | ‎B8DE8DBF3807F94364D4978766814637522D660C
-[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎D4FB2982268B592E3CD46FA78194E71418297741
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎978859CE5698F2BFADE1129401CF70856BE738D3
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
 [Sogou.Com](http://www.sogou.com) | 2018-09-29 | ‎EB71F776677A00EA1DDBF1358A649E948836452A
 [TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
-[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
+[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2019-03-29 | ‎297124A7E7D4F2B46BD478AC7263A1369AC1738D
 [WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
 [WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
 [YY Inc.](http://www.yy.com) | 2018-10-16 | ‎0C4D32BB2623387CD40C252DDB0F650DE6373385
@@ -68,10 +69,12 @@ Name | Expire Time | Fingerprint
 [PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
 [Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
 [ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
 [Sogou.Com](http://www.sogou.com) | 2012-07-15 | ‎34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
 [Sogou.Com](http://www.sogou.com) | 2015-08-25 | ‎A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
 [TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | ‎1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2013-01-26 | 8B46390D86B891E5A3D3AAB2B00D6FDB27A0F791
+[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
 [UC Mobile Limited](http://www.ucweb.com) | 2015-01-06 | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
 [Wandou Technology Ltd](http://www.wandoujia.com) | 2015-06-03 | AB09D1AFE555CFC580575F5BC78B16B9F1C4E432
 [Xiamen Yitianxia Network Technology Co., Ltd](http://www.haozhuodao.com) | 2015-01-02 | F49A648C69C2F01A0FDEB3992C5AE0A14D5AD9FC
