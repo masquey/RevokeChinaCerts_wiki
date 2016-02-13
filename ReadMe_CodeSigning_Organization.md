@@ -12,70 +12,70 @@
 
 Name | Expire Time | Fingerprint
 :---:|:---:|---
-[2345.Com](http://www.2345.com) | 2016-05-23 | ‎B6070B587AFB5CEBECA17F2ACA02A0314CBC8839
+[2345.Com](http://www.2345.com) | 2016-05-23 | B6070B587AFB5CEBECA17F2ACA02A0314CBC8839
 [Baidu (China) Co., Ltd.](https://www.baidu.com) | 2017-02-12 | 0E6193159596F8150ED9ED2A402E67C28FAAC1BE
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2016-04-06 | CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3
-‎[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2018-08-07 | 4893C5890F8DA1AFE9DF91EE3AE678B2AC782F41
+[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2018-08-07 | 4893C5890F8DA1AFE9DF91EE3AE678B2AC782F41
 [Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | 2016-08-02 | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
-[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2017-11-03 | ‎‎C555780B84AEFA9BAAE26FDA390138713157B6AF
-[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2016-01-29 | ‎CC9467907AD45574588F4E16F29CA36D5F78C0F8
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2017-11-03 | C555780B84AEFA9BAAE26FDA390138713157B6AF
+[Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2016-01-29 | CC9467907AD45574588F4E16F29CA36D5F78C0F8
 [BEIJING KUWO TECHNOLOGY CO.,LTD.](http://www.kuwo.cn) | 2017-01-03 | 5FFFD1A3EAE5ED74558913C4A8476D1514C6D61F
 [BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD.](http://www.iqiyi.com) | 2017-02-10 | 5DC57AF121E3101F4BFEA8A22BBDADC0869C80EE
-[Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2018-09-08 | ‎6D6AFC4A6E24B3441B872B9995E37CA8D2BC4609
+[Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2018-09-08 | 6D6AFC4A6E24B3441B872B9995E37CA8D2BC4609
 [Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
 [FOX INFORMATION TECHNOLOGY (TIANJIN) LIMITED](http://www.sohu.com) | 2017-12-31 | 89FB07619BFEC398C258221AB54DB5D761F061FA
-[Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2018-07-13 | ‎6505AD4DC89D1E592A47E839359E6918A0407EBF
+[Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2018-07-13 | 6505AD4DC89D1E592A47E839359E6918A0407EBF
 [Haiyu Dongxiang Co.,Ltd](http://www.droid4x.cn) | 2016-08-26 | 0C763003F5360492F9A90B5156E0387961F04993
 [Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | 2016-08-06 | 2BDEC50B4446652C126709A08248E572B859CCCC
 [LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
-[Maxthon (Asia) Limited.](http://www.maxthon.com) | 2018-08-28 | ‎5C7961E4A7020975FF67414435FA934BA87D1366
+[Maxthon (Asia) Limited.](http://www.maxthon.com) | 2018-08-28 | 5C7961E4A7020975FF67414435FA934BA87D1366
 [NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-06-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
-[PPLive Corporation](http://www.pptv.com) | 2019-01-25 | ‎B8DE8DBF3807F94364D4978766814637522D660C
-[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎D4FB2982268B592E3CD46FA78194E71418297741
-[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎978859CE5698F2BFADE1129401CF70856BE738D3
+[PPLive Corporation](http://www.pptv.com) | 2019-01-25 | B8DE8DBF3807F94364D4978766814637522D660C
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | D4FB2982268B592E3CD46FA78194E71418297741
+[Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | 978859CE5698F2BFADE1129401CF70856BE738D3
 [Shenzhen Smartspace Software technology Co.,Limited](http://www.160.com) | 2017-04-20 | 78A149F9A04653B01DF09743571DF938F9873FA5
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
-[Sogou.Com](http://www.sogou.com) | 2018-09-29 | ‎EB71F776677A00EA1DDBF1358A649E948836452A
+[Sogou.Com](http://www.sogou.com) | 2018-09-29 | EB71F776677A00EA1DDBF1358A649E948836452A
 [TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
-[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2019-03-29 | ‎297124A7E7D4F2B46BD478AC7263A1369AC1738D
+[Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2019-03-29 | 297124A7E7D4F2B46BD478AC7263A1369AC1738D
 [WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
 [WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
-[YY Inc.](http://www.yy.com) | 2018-10-16 | ‎0C4D32BB2623387CD40C252DDB0F650DE6373385
+[YY Inc.](http://www.yy.com) | 2018-10-16 | 0C4D32BB2623387CD40C252DDB0F650DE6373385
 [Zhuhai Kingsoft Office Software Co.,Ltd](http://www.wps.cn) | 2017-04-20 | FA78FD28C1370371E8461D743114BAF1CD08A368
 [福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
 [广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
-[合一网络技术（北京）有限公司](http://www.youku.com) | ‎2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
+[合一网络技术（北京）有限公司](http://www.youku.com) | 2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
 [厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2017-02-19 | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
-[中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | ‎40B33FA24481DEF470BF2CDF88BABB8754C8489A
+[中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | 40B33FA24481DEF470BF2CDF88BABB8754C8489A
 
 * Expired **CodeSigning** list
 
 Name | Expire Time | Fingerprint
 :---:|:---:|---
-‎3721.Com | 2005-01-20 | A28C8E7AE778009B5FA55825D94BE73ADAF6A16E
+3721.Com | 2005-01-20 | A28C8E7AE778009B5FA55825D94BE73ADAF6A16E
 [Baidu (China) Co., Ltd.](https://www.baidu.com) | 2015-02-22 | A34B70840C2B6F718877DDB1C2DE2C27F2C91C43
 [Beijing baidu Netcom science and technology co.ltd](https://www.baidu.com) | 2015-02-27 | D60C12D1FDB9E45551A00C8815CCD486C043945B
 [BeiJing Baidu Netcom Science Technology Co., Ltd](https://www.baidu.com) | 2015-02-07 | 03FCF1B9FCAB6F7243F3E3E011C6FD28F64F9920
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2015-02-22 | CB6F65314E5B25D61304AB2C9C8870B574CC21F5
-[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2015-07-02 | ‎7909C1ABCD50813B0C3004E7468A3CC4BFAAE34D
-[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2013-07-12 | ‎8E853D78D6BB8E2911E0F102827C19126D290E36
-[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2014-08-30 | ‎D02D3BB43F3AFD9D6C77884E2CE4A8E3E47DD07B
+[BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2015-07-02 | 7909C1ABCD50813B0C3004E7468A3CC4BFAAE34D
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2013-07-12 | 8E853D78D6BB8E2911E0F102827C19126D290E36
+[Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2014-08-30 | D02D3BB43F3AFD9D6C77884E2CE4A8E3E47DD07B
 [Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2014-12-26 | E88DD1ACD2DB3A352072AA49C675F4944A3FEF82
 [Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2015-08-11 | D9421BEDD9F5B8A91DD3F8691E7A42D83C983325
 [Beijing Sohu New Media Information Technology Co., Ltd.](http://www.sohu.com) | 2014-11-29 | D1BB252CAC3D250C55978F7EAAF121DA91A17B42
-[China Mobile Group Guangdong Co., Ltd. Mobile Internet Branch](http://gd.10086.cn) | 2016-01-09 | ‎14DE17539FF05E234FAAFAE49CD30870ABD2F5F7
+[China Mobile Group Guangdong Co., Ltd. Mobile Internet Branch](http://gd.10086.cn) | 2016-01-09 | 14DE17539FF05E234FAAFAE49CD30870ABD2F5F7
 [Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2015-08-19 | 2529C0C0D833806AFBFA3C31987C19A18722A2FE
-[Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | ‎76F273B12A88EAB4B086DEB23875E35710446DA7
+[Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | 76F273B12A88EAB4B086DEB23875E35710446DA7
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2015-07-15 | 1481414E8E87412A00D3341167FE3A92C681B830
 [Mydrivers Information Technology Co., Ltd (ZhengZhou)](http://www.drivergenius.com) | 2015-07-04 | 982414EF52175D9693630F7CD2E69F317886A5F2
 [PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
 [Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
-[Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2016-01-26 | ‎294952E04EE73FA1935E756841F0FE11477F993B
-[ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
-[Sogou.Com](http://www.sogou.com) | 2012-07-15 | ‎34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
-[Sogou.Com](http://www.sogou.com) | 2015-08-25 | ‎A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
-[TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | ‎1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
+[Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2016-01-26 | 294952E04EE73FA1935E756841F0FE11477F993B
+[ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | 49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
+[Sogou.Com](http://www.sogou.com) | 2012-07-15 | 34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
+[Sogou.Com](http://www.sogou.com) | 2015-08-25 | A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
+[TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | 1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2013-01-26 | 8B46390D86B891E5A3D3AAB2B00D6FDB27A0F791
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
 [UC Mobile Limited](http://www.ucweb.com) | 2015-01-06 | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
@@ -83,7 +83,7 @@ Name | Expire Time | Fingerprint
 [Xiamen Yitianxia Network Technology Co., Ltd](http://www.haozhuodao.com) | 2015-01-02 | F49A648C69C2F01A0FDEB3992C5AE0A14D5AD9FC
 [YY Inc.](http://www.yy.com) | 2015-09-21 | B3B89CD7940DC67E4291A3EE767AC17A3BC9E620
 [杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
-[上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | ‎645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
+[上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | 645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
 [厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
 
 * **Organization** list
@@ -144,4 +144,4 @@ TianJinROOT | [Tian Jin CA](http://www.tj-ca.net) | 53826F5DEF4E3AD9FD73DCF1D04E
 UTrust Root CA | [ChinaUTrust](http://www.chinautrust.com) | 5070A0E2FA1DB04C2ED63461ECE36307AB3A863B
 xjcaRoot | [XIN JIANG CERTIFICATE AUTHORITY](http://www.xjca.com.cn) | 52A213B3CA8A5A5664D1BB9CF7A6A546C4E55973
 ZJRoot | [ZheJiang Certificate Authority](http://www.zjca.com.cn) | D65F531088EF11DD9BFA2BE437C906D44F9E9659
-GDCA Root CA | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | ‎6A9989CDCAB2B13D9849EF71A9089DE5F56512F9
+GDCA Root CA | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 6A9989CDCAB2B13D9849EF71A9089DE5F56512F9
