@@ -89,7 +89,7 @@ UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
 [UCA ROOT](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 3120F295417730075F8CD42D0CAE008EB5726EF8
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
-GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | ‎742CA08594ABA62CE76E94386EA75A98712F02EA
+GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
 GDCA TrustAUTH R5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
 
 * **All** list
@@ -97,7 +97,7 @@ GDCA TrustAUTH R5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.
 Name | Authority | SHA-1
 :---:|:---:|---
 [SRCA](https://kyfw.12306.cn) | [Sinorail Certification Authority](http://www.12306.cn) | AE3F2E66D48FC6BD1DF131E89D768D505DF14302
-[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | ‎8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
+[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
 [Certification Authority of WoSign](https://root1evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | B94294BF91EA8FB64BE61097C7FB001359B676CB
 [CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
 Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
