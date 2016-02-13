@@ -33,6 +33,7 @@ Name | Expire Time | Fingerprint
 [PPLive Corporation](http://www.pptv.com) | 2019-01-25 | ‎B8DE8DBF3807F94364D4978766814637522D660C
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎D4FB2982268B592E3CD46FA78194E71418297741
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | ‎978859CE5698F2BFADE1129401CF70856BE738D3
+[Shenzhen Smartspace Software technology Co.,Limited](http://www.160.com) | 2017-04-20 | 78A149F9A04653B01DF09743571DF938F9873FA5
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
 [Sogou.Com](http://www.sogou.com) | 2018-09-29 | ‎EB71F776677A00EA1DDBF1358A649E948836452A
 [TAOBAO (CHINA) SOFTWARE CO.,LTD.](http://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
@@ -66,10 +67,12 @@ Name | Expire Time | Fingerprint
 [Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2015-08-19 | 2529C0C0D833806AFBFA3C31987C19A18722A2FE
 [Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | ‎76F273B12A88EAB4B086DEB23875E35710446DA7
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2015-07-15 | 1481414E8E87412A00D3341167FE3A92C681B830
+[Mydrivers Information Technology Co., Ltd (ZhengZhou)](http://www.drivergenius.com) | 2015-07-04 | 982414EF52175D9693630F7CD2E69F317886A5F2
 [PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
-[Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
-[ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
+[Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
+[Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2016-01-26 | ‎294952E04EE73FA1935E756841F0FE11477F993B
+[ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | ‎49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
 [Sogou.Com](http://www.sogou.com) | 2012-07-15 | ‎34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
 [Sogou.Com](http://www.sogou.com) | 2015-08-25 | ‎A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
 [TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | ‎1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
