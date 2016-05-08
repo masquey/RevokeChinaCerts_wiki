@@ -4,8 +4,8 @@
 
 ### 批处理/脚本类型
 * **1/完全版本**：吊销了所有列表中代码签名的证书
-* **2/Choice/提示选择版本**：可由用户根据提示自行选择需要吊销列表中代码签名的证书，**建议使用此版本**
-* **3/Restore/恢复版本**：可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
+* **2/Restore/恢复版本**：可恢复所有在上面几个版本中所有被加入吊销列表的证书的使用
+* **Choice/提示选择版本**：已不再受支持，如果需要实现类似的功能，可直接到 /Windows/Certificates/CodeSigning 或者 /Windows/Certificates/Organization 目录删除涉及的证书一节中提到对应的证书文件，再运行完全版本进行吊销
 
 ### 涉及的证书
 参见 https://github.com/chengr28/RevokeChinaCerts/wiki/ReadMe_CodeSigning_Organization#about-certificates
