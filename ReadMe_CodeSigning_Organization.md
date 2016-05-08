@@ -38,8 +38,8 @@ Name | Expire Time | Fingerprint
 [PPLive Corporation(SHA-256)](http://www.pptv.com) | 2019-01-25 | 355A2A394F51E1D741D034FF102B345D5B27D846
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2019-03-29 | D4FB2982268B592E3CD46FA78194E71418297741
 [Qihoo 360 Software (Beijing) Company Limited(SHA-256)](http://www.360.cn) | 2019-03-29 | 978859CE5698F2BFADE1129401CF70856BE738D3
-[Shenzhen DriveTheLife Software Technology Co.Ltd] | 2018-02-08 | AFC10A7F6628C214982E23B1C166A21F0BF3E7DF
-[Shenzhen DriveTheLife Software Technology Co.Ltd(SHA-256)] | 2018-02-08 | 52618B2F6389127082A2E208ECD70234019DF6E8
+[Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2018-02-08 | AFC10A7F6628C214982E23B1C166A21F0BF3E7DF
+[Shenzhen DriveTheLife Software Technology Co.Ltd(SHA-256)](http://www.160.com) | 2018-02-08 | 52618B2F6389127082A2E208ECD70234019DF6E8
 [Shenzhen Smartspace Software technology Co.,Limited](http://www.160.com) | 2017-04-20 | 78A149F9A04653B01DF09743571DF938F9873FA5
 [ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2018-07-27 | D0AE98E21429702CE68CFB1475D29E59CAC36F54
 [ShenZhen Thunder Networking Technologies Ltd.(SHA-256)](http://www.xunlei.com) | 2018-07-27 | 5C4F19D63931C00E239E4227DE41C60AF140F45B
