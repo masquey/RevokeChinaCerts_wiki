@@ -23,7 +23,7 @@
 ### Update(Windows)
 * Update **CRL**/Certificate Revocation List
 * Update **CTL**/Certificate Trust List(**SST**)
-* Update **CTL**/Certificate Trust List(**RootSUPD**)
+* Update **CTL**/Certificate Trust List(RootSUPD, end of support)
 * Reset **CRL**/Certificate Revocation List
 * To reset all CTL/Certificate Trust List, do not choose any options. Exit batch and use Microsoft Fixit tools:
     * **Microsoft_Fixit_20135.diagcab** - Windows Vista and later
