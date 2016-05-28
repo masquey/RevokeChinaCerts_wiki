@@ -68,13 +68,14 @@ www.icloud.com | Fake | F468B5F3FED807974476A22B32EA3137D924F7BA
 *.hotmail.com | Fake | 75F411595FE9A21A17A4967C7B666E5152791A32
 [CNNIC ROOT](https://www.cnnic.net.cn) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 8BAF4C9B1DF02A92F7DA128EB91BACF498604B6F
 [China Internet Network Information Center EV Certificates Root](https://evdemo.cnnic.cn) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 4F99AA93FB2BD13726A1994ACE7FF005F2935D1E
-CNNIC SSL | [Entrust.net Secure Server Certification Authority](http://www.entrust.net) | 6856BB1A6C4F76DACA362187CC2CCD484EDDC25D
+CNNIC SSL | [Entrust.net Secure Server Certification Authority](https://www.entrust.net) | 6856BB1A6C4F76DACA362187CC2CCD484EDDC25D
 [GiantRootCA](https://mail.ztgame.com) | [Giant Interactive Group Inc.](http://www.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
-[JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sarft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
+[JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sapprft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 [*.wacc.baidu.com](https://wacc.n.shifen.com) | [Baidu, inc.](https://www.baidu.com) | 561422647B89BE22F203EBCAEF52B5007227510A
 eDellRoot | [Dell Inc.](https://www.dell.com) | 98A04E4163357790C4A79E6D713FF0AF51FE6927
 DSDTestProvider | [Dell Inc.](https://www.dell.com) | 02C2D931062D7B1DC2A5C7F5F0685064081FB221
+Blue Coat Public Services Intermediate CA | [VeriSign Class 3 Public Primary Certification Authority - G5](https://www.verisign.com) | 8EDCEE98F5788D38B8D8AD0E0C6137A6FBD1666D
 
 * **Extended** list
 
@@ -89,8 +90,8 @@ UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
 [UCA ROOT](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 3120F295417730075F8CD42D0CAE008EB5726EF8
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
-GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
-GDCA TrustAUTH R5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](http://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
+GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
+[GDCA TrustAUTH R5 ROOT](https://www.gdca.com.cn) | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
 
 * **All** list
 
