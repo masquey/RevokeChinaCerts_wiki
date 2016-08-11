@@ -16,7 +16,6 @@ Name | Expire Time | Fingerprint
 [BeiJing Baidu Netcom Science Technology Co., Ltd](https://www.baidu.com) | 2018-02-07 | ACAED4BE8C729A6AE5F4F82F5F183A9C4EBE7AE3
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2018-05-06 | BBC26FF3B96FF570D96A75ED09FF8F11481E7EF5
 [BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2018-08-07 | 4893C5890F8DA1AFE9DF91EE3AE678B2AC782F41
-[Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | 2016-08-02 | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
 [Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2017-11-03 | C555780B84AEFA9BAAE26FDA390138713157B6AF
 [Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2017-02-20 | CA1C10FA2E56B5BAD83D087233F15D898EFF0C54
 [BEIJING KUWO TECHNOLOGY CO.,LTD.](http://www.kuwo.cn) | 2017-01-03 | 5FFFD1A3EAE5ED74558913C4A8476D1514C6D61F
@@ -28,11 +27,11 @@ Name | Expire Time | Fingerprint
 [Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
 [FOX INFORMATION TECHNOLOGY (TIANJIN) LIMITED](http://www.sohu.com) | 2017-12-31 | 89FB07619BFEC398C258221AB54DB5D761F061FA
 [Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2018-07-13 | 6505AD4DC89D1E592A47E839359E6918A0407EBF
-[Haiyu Dongxiang Co.,Ltd](http://www.droid4x.cn) | 2016-08-26 | 0C763003F5360492F9A90B5156E0387961F04993
+[Haiyu Dongxiang Co.,Ltd](http://droid4x.haimawan.com) | 2016-08-26 | 0C763003F5360492F9A90B5156E0387961F04993
 [Kingsoft Security Co.,Ltd](http://www.kingsoft.com) | 2016-08-06 | 2BDEC50B4446652C126709A08248E572B859CCCC
-[LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.letv.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
+[LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING](http://www.le.com) | 2017-01-08 | 62DF2BC4B5902B52C215C697D06038E3B28CF5D3
+[LE SHI INTERNET INFORMATION & TECHNOLOGY CORP.,BEI JING(SHA-256)](http://www.le.com) | 2017-06-18 | ‎EC6FEFDCED80555081AF88C56F538F7575D8204F
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2018-08-28 | 5C7961E4A7020975FF67414435FA934BA87D1366
-[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-06-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
 [NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2019-02-27 | E90DC0AC8B9EAE1DA53292626094CF800CEF2BC0
 [PPLive Corporation](http://www.pptv.com) | 2019-01-25 | B8DE8DBF3807F94364D4978766814637522D660C
 [PPLive Corporation(SHA-256)](http://www.pptv.com) | 2019-01-25 | 355A2A394F51E1D741D034FF102B345D5B27D846
@@ -46,17 +45,17 @@ Name | Expire Time | Fingerprint
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
 [Sogou.com](http://www.sogou.com) | 2017-09-27 | D91D7B2C0FC2E792041CA3C5D35E67BBADA3C33E
 [Sogou.Com](http://www.sogou.com) | 2018-09-29 | EB71F776677A00EA1DDBF1358A649E948836452A
-[TAOBAO (CHINA) SOFTWARE CO.,LTD.](https://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
-[TAOBAO (CHINA) SOFTWARE CO.,LTD.(SHA-256)](https://www.taobao.com) | 2016-06-22 | 87DD03AADF049F0E742AB2978CC190F4764A89BC
+[TAOBAO (CHINA) SOFTWARE CO.,LTD.](https://www.taobao.com) | 2018-07-15 | ‎51133A37FFAD0B668844984E77109F29482D7DAB
+[TAOBAO (CHINA) SOFTWARE CO.,LTD.(SHA-256)](https://www.taobao.com) | 2018-07-15 | ‎9FFC6F20BA13B92C26B405E8F000213336AD1AA0
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2019-03-29 | C57B841B09620EA6278E62AF20963FAEC8F9E03D
 [Tencent Technology(Shenzhen) Company Limited(SHA-256)](http://www.tencent.com) | 2019-03-29 | 297124A7E7D4F2B46BD478AC7263A1369AC1738D
 [WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
 [WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
 [YY Inc.](http://www.yy.com) | 2018-10-16 | 0C4D32BB2623387CD40C252DDB0F650DE6373385
+[YY Inc.(SHA-256)](http://www.yy.com) | 2018-10-16 | ‎2B70F74748E600BB0FA155C4ADABD3BF7B877261
 [Zhuhai Kingsoft Office Software Co.,Ltd](http://www.wps.cn) | 2017-04-20 | FA78FD28C1370371E8461D743114BAF1CD08A368
 [Zhuhai Kingsoft Office Software Co.,Ltd(SHA-256)](http://www.wps.cn) | 2017-04-20 | 95B1E59D73275C1582D1C7B88B5539E9DA9E2C6F
 [福建博瑞网络科技有限公司](http://www.91.com) | 2017-06-11 | E87D1C1D3FE2BCA700EB7B8DC0E45B97EAF19405
-[广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
 [合一网络技术（北京）有限公司](http://www.youku.com) | 2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
 [合一网络技术（北京）有限公司](http://www.youku.com) | 2018-01-06 | 7CA5748E69272CB1164C4F6E37E7848A5DE46D96
 [合一网络技术（北京）有限公司(SHA-256)](http://www.youku.com) | 2018-01-06 | 2067B2629A568B4B478EEBD12D9257CC2AF696A8
@@ -75,6 +74,7 @@ Name | Expire Time | Fingerprint
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2015-02-22 | CB6F65314E5B25D61304AB2C9C8870B574CC21F5
 [Beijing Baofeng Technology Co., Ltd.](http://www.baofeng.com) | 2016-04-06 | CC79F55AB07E7A1D5CEC981CEEB864DDA5DC74E3
 [BeiJing Eastern Micropoint Info-Tech CO., LTD](http://www.micropoint.com.cn) | 2015-07-02 | 7909C1ABCD50813B0C3004E7468A3CC4BFAAE34D
+[Beijing Funshion Online Technologies Ltd.](http://www.fun.tv) | 2016-08-02 | 9AB5445104C6CCE5A22431CF29C4331CBC328A1B
 [Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2013-07-12 | 8E853D78D6BB8E2911E0F102827C19126D290E36
 [Beijing Jiangmin New Sci.&Tec. Co. Ltd.](http://www.jiangmin.com) | 2014-08-30 | D02D3BB43F3AFD9D6C77884E2CE4A8E3E47DD07B
 [Beijing Kingsoft Security software Co.,Ltd](http://www.kingsoft.com) | 2014-12-26 | E88DD1ACD2DB3A352072AA49C675F4944A3FEF82
@@ -86,6 +86,7 @@ Name | Expire Time | Fingerprint
 [Fuzhou BoYuan Wireless Websoft Technology Ltd.](http://www.91.com) | 2014-06-01 | 76F273B12A88EAB4B086DEB23875E35710446DA7
 [Maxthon (Asia) Limited.](http://www.maxthon.com) | 2015-07-15 | 1481414E8E87412A00D3341167FE3A92C681B830
 [Mydrivers Information Technology Co., Ltd (ZhengZhou)](http://www.drivergenius.com) | 2015-07-04 | 982414EF52175D9693630F7CD2E69F317886A5F2
+[NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2016-06-21 | E0387F3AF5752A4620EC617C39153C0E666CF5F8
 [PPLive Corporation](http://www.pptv.com) | 2016-01-10 | 5477E38783CD37B1E5729B15D7C0873A2D72DB9D
 [Qihoo 360 Software (Beijing) Company Limited](http://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
 [Shanghai Quan Tudou Network Technology Co., Ltd.](http://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
@@ -94,6 +95,8 @@ Name | Expire Time | Fingerprint
 [Sogou.Com](http://www.sogou.com) | 2012-07-15 | 34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
 [Sogou.Com](http://www.sogou.com) | 2015-08-25 | A72BBE1C7AA918B5BB1AD8E892DB1095A69C7035
 [TaoBao(china) Software Co., Ltd](http://www.taobao.com) | 2014-06-23 | 1B1D4D8444EB54B17CB5B999A50E1D0C0ED1BFE2
+[TAOBAO (CHINA) SOFTWARE CO.,LTD.](https://www.taobao.com) | 2016-06-22 | E5777A69CAFD7F7C6F89C5297DD1159C7AE9B881
+[TAOBAO (CHINA) SOFTWARE CO.,LTD.(SHA-256)](https://www.taobao.com) | 2016-06-22 | 87DD03AADF049F0E742AB2978CC190F4764A89BC
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2013-01-26 | 8B46390D86B891E5A3D3AAB2B00D6FDB27A0F791
 [Tencent Technology(Shenzhen) Company Limited](http://www.tencent.com) | 2016-02-17 | 2FDD445591CD2EEDBEF8B8A281896A59C08B3DC9
 [UC Mobile Limited](http://www.ucweb.com) | 2015-01-06 | 1540C77B5D19FC5A71A04DB001488E55B45DDC7F
@@ -102,6 +105,7 @@ Name | Expire Time | Fingerprint
 [YY Inc.](http://www.yy.com) | 2015-09-21 | B3B89CD7940DC67E4291A3EE767AC17A3BC9E620
 [杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
 [上海瑞创网络科技股份有限公司](http://www.2345.com) | 2014-06-21 | 645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
+[广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
 [厦门美图网科技有限公司](http://xiuxiu.web.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
 [中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | 40B33FA24481DEF470BF2CDF88BABB8754C8489A
 
