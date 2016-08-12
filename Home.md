@@ -10,5 +10,4 @@
 ---
 
 ### Contacts
-* [Twitter](https://twitter.com/chengr28)
 * Open a new issue here!
