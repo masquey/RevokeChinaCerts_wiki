@@ -66,8 +66,8 @@ hotmai.com | Fake | 30F3B3ADC6E570BDA606B9F96DE24190CE262C67
 www.facebook.com | Fake | DC6EE6EDC4C078E1B2C12F6D1985000E27CFD318
 www.icloud.com | Fake | F468B5F3FED807974476A22B32EA3137D924F7BA
 *.hotmail.com | Fake | 75F411595FE9A21A17A4967C7B666E5152791A32
-[CNNIC ROOT](https://www.cnnic.net.cn) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 8BAF4C9B1DF02A92F7DA128EB91BACF498604B6F
-[China Internet Network Information Center EV Certificates Root](https://evdemo.cnnic.cn) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 4F99AA93FB2BD13726A1994ACE7FF005F2935D1E
+[CNNIC ROOT](https://support.apple.com/en-us/HT204938) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 8BAF4C9B1DF02A92F7DA128EB91BACF498604B6F
+[China Internet Network Information Center EV Certificates Root](https://support.apple.com/en-us/HT204938) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 4F99AA93FB2BD13726A1994ACE7FF005F2935D1E
 CNNIC SSL | [Entrust.net Secure Server Certification Authority](https://www.entrust.net) | 6856BB1A6C4F76DACA362187CC2CCD484EDDC25D
 [GiantRootCA](https://mail.ztgame.com) | [Giant Interactive Group Inc.](http://www.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sapprft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
@@ -81,9 +81,10 @@ Blue Coat Public Services Intermediate CA | [VeriSign Class 3 Public Primary Cer
 
 Name | Authority | Fingerprint
 :---:|:---:|---
-[CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn/) | EABDA240440ABBD694930A01D09764C6C2D77966
-CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn/) | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
-[CFCA EV ROOT](https://cs.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn/) | E2B8294B5584AB6B58C290466CAC3FB8398F8483
+[CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | EABDA240440ABBD694930A01D09764C6C2D77966
+CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
+[CFCA EV ROOT](https://cs.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | E2B8294B5584AB6B58C290466CAC3FB8398F8483
+CFCA Identity CA | [China Financial Certification Authority](https://www.cfca.com.cn) | F02B70BDE4EAE02B207377B9FD4785E4C9CC55DC
 [UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
 [UCA Root](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
