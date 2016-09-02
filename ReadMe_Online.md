@@ -93,13 +93,6 @@ UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
 GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
 [GDCA TrustAUTH R5 ROOT](https://www.gdca.com.cn) | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
-
-* **All** list
-
-Name | Authority | SHA-1
-:---:|:---:|---
-[SRCA](https://kyfw.12306.cn) | [Sinorail Certification Authority](http://www.12306.cn) | AE3F2E66D48FC6BD1DF131E89D768D505DF14302
-[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
 [Certification Authority of WoSign](https://root1evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | B94294BF91EA8FB64BE61097C7FB001359B676CB
 [CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
 Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
@@ -110,17 +103,33 @@ Certification Authority of WoSign | [StartCom Certification Authority](https://w
 Certification Authority of WoSign | [StartCom Certification Authority](https://www.startcom.org) | 692790DA5189529CC5CE1E16E984277A03023E99
 Certification Authority of WoSign | [StartCom Certification Authority](https://www.startcom.org) | 804E5FB7DE84F5F5B28347233EAF07846B6070D3
 Certification Authority of WoSign | [StartCom Certification Authority](https://www.startcom.org) | B0B68AE97CFE2AFACD0DC2010B9D70ACE593E8A6
+Certification Authority of WoSign | [StartCom Certification Authority](https://www.startcom.org) | 27D5BBE04301E1604839708D172CF09296ED9033
+Certification Authority of WoSign | [UTN-USERFirst-Object](https://www.comodo.com) | 7C1913D189C46577D7513F980A2CFD7EDCBA0EC9
+Certification Authority of WoSign | [UTN-USERFirst-Object](https://www.comodo.com) | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
+Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | B39191CFF08EB6FD8B447C21CAAEF6FC33F1D5AE
+Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | 73FFCA3F815B7A77717FE91912A4DC7B6BFB79CA
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | D8EFF6C28BB508E4702565F42748454A872BD412
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
+CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
+CA 沃通根证书 | Class 1 Primary CA | FDF9B856FD3B6BD29B7A5BCF6053E169284FE5FE
 Certification Authority of WoSign | [UTN – DATACorp SGC](https://www.comodo.com) | 56FAADDC596DCF78D585D83A35BC04B690D12736
 WoSign Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | E3D569137E603E7BACB6BCC66AE943850C8ADF38
 WoSign Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 3E14B8BD6C568657D852D95D387249AE857B4A39
 WoSign SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 6D5A18050D56BFDE525CBE89E8C45DD1B53D12E9
 WoSign Client Authority | [UTN-USERFirst-Client Authentication and Email](https://www.comodo.com) | FAD4319D4E173FF3853E51C98D21919BF3DA1A1E
 WoTrust Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 381CBC5048AFD9A02D3E5882D5F22D962B1A5F72
+WoTrust Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | CF37A5B5C9166BD6B57A56BF67165A584B057241
 WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 337DF96418F08A9355870513AFCEBDC68BCED767
 WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C
 WoTrust Client Authority | [UTN-USERFirst-Client Authentication and Email](https://www.comodo.com) | 38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0
+
+
+* **All** list
+
+Name | Authority | SHA-1
+:---:|:---:|---
+[SRCA](https://kyfw.12306.cn) | [Sinorail Certification Authority](http://www.12306.cn) | AE3F2E66D48FC6BD1DF131E89D768D505DF14302
+[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
 Hongkong Post Root CA | [Hongkong Post](https://www.hongkongpost.hk) | E0925E18C7765E22DABD9427529DA6AF4E066428
 [Hongkong Post Root CA 1](https://www.hongkongpost.hk) | [Hongkong Post](https://www.hongkongpost.hk) | D6DAA8208D09D2154D24B52FCB346EB258B28A58
 Macao Post eSignTrust Root Certification Authority | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 89C32E6B524E4D65388B9ECEDC637134ED4193A3
