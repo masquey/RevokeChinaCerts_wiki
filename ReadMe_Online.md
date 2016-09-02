@@ -111,7 +111,6 @@ Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | 73FF
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | D8EFF6C28BB508E4702565F42748454A872BD412
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
-CA 沃通根证书 | Class 1 Primary CA | FDF9B856FD3B6BD29B7A5BCF6053E169284FE5FE
 Certification Authority of WoSign | [UTN – DATACorp SGC](https://www.comodo.com) | 56FAADDC596DCF78D585D83A35BC04B690D12736
 WoSign Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | E3D569137E603E7BACB6BCC66AE943850C8ADF38
 WoSign Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 3E14B8BD6C568657D852D95D387249AE857B4A39
