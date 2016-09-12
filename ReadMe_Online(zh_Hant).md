@@ -1,4 +1,5 @@
 ### 使用方法
+* 使用 Download ZIP 功能將專案檔案全部下載到本地
 * **以管理員許可權運行**運行批次處理，並根據提示操作即可(Windows)：
     * `RevokeChinaCerts_Online.bat` - 系統內置證書清單
     * `RevokeChinaCerts_Firefox.bat` - Firefox 瀏覽器
