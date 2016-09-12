@@ -1,4 +1,5 @@
 ### Usage
+* Download the ZIP of whole project.
 * Run batch **with Administrator permissions** and follow the messages on screen(Windows):
     * `RevokeChinaCerts_Online.bat` - Windows built-in certificate lists
     * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate lists
