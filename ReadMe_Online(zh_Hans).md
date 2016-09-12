@@ -1,4 +1,5 @@
 ### 使用方法
+* 使用 Download ZIP 功能将项目文件全部下载到本地
 * **以管理员权限运行**批处理，并根据提示操作即可(Windows)：
     * `RevokeChinaCerts_Online.bat` - 系统内置证书列表
     * `RevokeChinaCerts_Firefox.bat` - Firefox 浏览器
