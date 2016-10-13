@@ -1,8 +1,8 @@
 ### Usage
 * Download the ZIP of whole project.
 * Run batch **with Administrator permissions** and follow the messages on screen(Windows):
-    * `RevokeChinaCerts_Online.bat` - Windows built-in certificate lists
-    * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate lists
+    * `RevokeChinaCerts_Online.bat` - Windows built-in certificate list
+    * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate list
     * Run all batches to revoke certificates in all supported lists.
 * See other system folders to revoke certificates in other platforms.
 * **Clear all browser(s) data/DNS cache of system** and restart network interface(s).
@@ -19,19 +19,16 @@
 
 ### Attention(Windows)
 * Delete certificates cannot revoke them. You must add the certificates to CRL to prohibit all their uses.
-* Most of programs, Chrome and Opera are using system certificate list.
+* Most of programs, Chrome and Opera are using system built-in certificate list.
 
 ### Update(Windows)
 * Update **CRL**/Certificate Revocation List
-* Update **CTL**/Certificate Trust List(**SST**)
-* Update **CTL**/Certificate Trust List(RootSUPD, end of support)
+* Update **CTL**/Certificate Trust List(**Windows Update**)
+* Update **CTL**/Certificate Trust List(RootSUPD, Windows XP/2003 and older)
 * Reset **CRL**/Certificate Revocation List
 * To reset all CTL/Certificate Trust List, do not choose any options. Exit batch and use Microsoft Fixit tools:
     * **Microsoft_Fixit_20135.diagcab** - Windows Vista and later
     * **Microsoft_Fixit_51014.msi** - Windows XP/2003 and older
-* SST database:
-    * SST database can be found in [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) and CAB-> STL(Certificate fingerprint list) can be indexed with Certutil tool. Certutil tool can download certificates with STL(`generateSSTFromWU` and `syncWithWU` parameters). About SST database, see [Configure Trusted Roots and Disallowed Certificates](https://TechNet.Microsoft.com/en-us/library/dn265983.aspx).
-    * [KB931125/RootSUPD](https://support.Microsoft.com/en-us/KB/931125) with the end of support for Windows XP is no longer be updated.
 
 ### Usage(without Automation tools)
 * **Linux**(Debian, other Linux distributions should need to see its official description)
@@ -74,8 +71,6 @@ CNNIC SSL | [Entrust.net Secure Server Certification Authority](https://www.entr
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sapprft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 [*.wacc.baidu.com](https://wacc.n.shifen.com) | [Baidu, inc.](https://www.baidu.com) | 561422647B89BE22F203EBCAEF52B5007227510A
-eDellRoot | [Dell Inc.](https://www.dell.com) | 98A04E4163357790C4A79E6D713FF0AF51FE6927
-DSDTestProvider | [Dell Inc.](https://www.dell.com) | 02C2D931062D7B1DC2A5C7F5F0685064081FB221
 Blue Coat Public Services Intermediate CA | [VeriSign Class 3 Public Primary Certification Authority - G5](https://www.verisign.com) | 8EDCEE98F5788D38B8D8AD0E0C6137A6FBD1666D
 
 * **Extended** list
@@ -135,10 +130,12 @@ Hongkong Post Root CA | [Hongkong Post](https://www.hongkongpost.hk) | E0925E18C
 Macao Post eSignTrust Root Certification Authority | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 89C32E6B524E4D65388B9ECEDC637134ED4193A3
 Macao Post eSignTrust Root Certification Authority(G02) | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 06143151E02B45DDBADD5D8E56530DAAE328CF90
 [ePKI Root Certification Authority](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0
+[ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | D99B104298594763F0B9A927B79269CB47DD158B
+[ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 81AC5DE150D1B8DE5D3E0E266A136B737862D322
 Government Root Certification Authority | [Government Root Certification Authority](http://grca.nat.gov.tw/GRCAeng/htdocs/index.html) | F48B11BFDEABBE94542071E641DE6BBE882B40B9
 TWCA Global Root CA | [TWCA](https://www.twca.com.tw) | 9CBB4853F6A4F6D352A4E83252556013F5ADAF65
-[TWCA Root Certification Authority(1)](https://www.twca.com.tw) | [TWCA](https://www.twca.com.tw) | CF9E876DD3EBFC422697A3B5A37AA076A9062348
-TWCA Root Certification Authority(2) | [TWCA](https://www.twca.com.tw) | DF646DCB7B0FD3A96AEE88C64E2D676711FF9D5F
+[TWCA Root Certification Authority](https://www.twca.com.tw) | [TWCA](https://www.twca.com.tw) | CF9E876DD3EBFC422697A3B5A37AA076A9062348
+TWCA Root Certification Authority | [TWCA](https://www.twca.com.tw) | DF646DCB7B0FD3A96AEE88C64E2D676711FF9D5F
 TaiCA Secure CA | [GTE CyberTrust Global Root](http://www.verizonenterprise.com) | 5B404B6DB43E1F71557F75552E7668289B1B6309
 TWCA Secure CA | [Baltimore CyberTrust Root](http://www.verizonenterprise.com) | 3F3E6C4B33802A2FEA46C5CACA14770A40018899
 TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
