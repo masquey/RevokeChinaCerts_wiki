@@ -29,15 +29,12 @@
 
 ### Windows 系统证书列表升级
 * **1** 为升级 **CRL/证书吊销列表**
-* **2** 为通过 **SST** 数据库的方法升级 **CTL/证书信任列表**
-* **3** 为通过 RootSUPD 证书更新补丁升级 CTL/证书信任列表**（已结束支持）**
+* **2** 为通过 **Windows Update** 升级 **CTL/证书信任列表**
+* **3** 为通过 RootSUPD 证书更新补丁升级 **CTL/证书信任列表（Windows Vista 以前的版本）**
 * **4** 为重置 **CRL/证书吊销列表**
 * 要重置对CTL/证书信任列表的更改，需要运行 Microsoft Fixit 工具并重启系统：
     * **Microsoft_Fixit_20135.diagcab** - 适用于 Windows Vista 以及更新的版本
     * **Microsoft_Fixit_51014.msi** - 适用于 Windows XP/2003 以及以前的版本
-* 数据库的长期更新：
-    * SST 数据库可通过 [KB2677070/An automatic updater of revoked certificates is available](https://support.microsoft.com/en-us/kb/2677070) 中提供的地址获取，得到的 CAB -> STL 证书列表可通过系统自带的 Certutil 工具使用 `generateSSTFromWU` 和 `syncWithWU` 参数下载到含有证书本体的 SST 数据库，其可供 Certmgr 直接使用。具体情况参见 [Configure Trusted Roots and Disallowed Certificates](https://technet.microsoft.com/en-us/library/dn265983.aspx)
-    * [KB931125/RootSUPD](https://support.microsoft.com/en-us/kb/931125) 随着对 Windows XP 支持期的结束，可能不再会有更新
 
 ### 其它平台非全自动工具吊销方法
 * **Linux**(以 Debian 系为例，其它 Linux 发行版操作方法参见其官方说明)
