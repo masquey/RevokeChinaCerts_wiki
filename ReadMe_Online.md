@@ -104,6 +104,8 @@ Certification Authority of WoSign | [UTN-USERFirst-Object](https://www.comodo.co
 Certification Authority of WoSign | [UTN-USERFirst-Object](https://www.comodo.com) | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
 Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | B39191CFF08EB6FD8B447C21CAAEF6FC33F1D5AE
 Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | 73FFCA3F815B7A77717FE91912A4DC7B6BFB79CA
+[WoSign EV SSL CA](https://evpretest.wosign.com) | [Certum Trusted Network CA](https://www.certum.eu) | 87DD1B740366A877FD28BF7ED709F4ACE1FA43A5
+[WoSign OV SSL CA](https://ovpretest.wosign.com) | [Certum Trusted Network CA](https://www.certum.eu) | FAEE1F690EDD55373C35E491EF0514F3EE9445A5
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | D8EFF6C28BB508E4702565F42748454A872BD412
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
@@ -117,6 +119,9 @@ WoTrust Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hard
 WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 337DF96418F08A9355870513AFCEBDC68BCED767
 WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C
 WoTrust Client Authority | [UTN-USERFirst-Client Authentication and Email](https://www.comodo.com) | 38CFE78D9F1F0B0637AFCAAA3D5549D87C0AA1D0
+[StartCom Certification Authority](https://www.startcom.org) | [StartCom Certification Authority](https://www.startcom.org) | 3E2BF7F2031B96F38CE6C4D8A85D3E2D58476A0F
+StartCom Certification Authority | [StartCom Certification Authority](https://www.startcom.org) | A3F1333FE242BFCFC5D14E8F394298406810D1A0
+StartCom Certification Authority G2 | [StartCom Certification Authority](https://www.startcom.org) | 31F1FD68226320EEC63B3F9DEA4A3E537C7C3917
 
 
 * **All** list
@@ -139,6 +144,3 @@ TWCA Root Certification Authority | [TWCA](https://www.twca.com.tw) | DF646DCB7B
 TaiCA Secure CA | [GTE CyberTrust Global Root](http://www.verizonenterprise.com) | 5B404B6DB43E1F71557F75552E7668289B1B6309
 TWCA Secure CA | [Baltimore CyberTrust Root](http://www.verizonenterprise.com) | 3F3E6C4B33802A2FEA46C5CACA14770A40018899
 TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
-[StartCom Certification Authority](https://www.startcom.org) | [StartCom Certification Authority](https://www.startcom.org) | 3E2BF7F2031B96F38CE6C4D8A85D3E2D58476A0F
-StartCom Certification Authority | [StartCom Certification Authority](https://www.startcom.org) | A3F1333FE242BFCFC5D14E8F394298406810D1A0
-StartCom Certification Authority G2 | [StartCom Certification Authority](https://www.startcom.org) | 31F1FD68226320EEC63B3F9DEA4A3E537C7C3917
