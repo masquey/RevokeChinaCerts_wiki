@@ -1,5 +1,5 @@
 ### WARNING
-**RevokeChinaCerts** can be only used for academic exchanges witch follow some Licenses. Do NOT use it for illegal ways in your country(ies). Confirm your need before using RevokeChinaCerts. If you get some troublesome results or law problems about using RevokeChinaCerts, at your own risk. See LICENSE before using source from RevokeChinaCerts project.
+**RevokeChinaCerts** can be only used for academic exchanges witch follow some Licenses. Do NOT use it for illegal ways in your country(ies). Confirm your need before using RevokeChinaCerts. If you get some troublesome results or law problems about using RevokeChinaCerts, at your own risk. Read LICENSE before using source from RevokeChinaCerts project.
 
 ---
 ### 特别声明
