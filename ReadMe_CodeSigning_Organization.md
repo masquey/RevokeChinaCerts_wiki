@@ -1,10 +1,10 @@
 ### Usage
 * Run `RevokeChinaCerts_CodeSigning.bat` or `RevokeChinaCerts_Organization.bat` and follow the messages on screen.
-* Setting force require administrative privileges and Microsoft .NET Framework 4.0+.
+* Setting force requires administrative privileges and Microsoft .NET Framework 4.0+.
 
 ### Version
-* **1** is **All** version, it can revoke all listed CodeSigning/Organization certificates.
-* **2** is **Restore** version, it can restore all listed revoking CodeSigning/Organization certificates.
+* **1** is **All** version, revoke all listed CodeSigning/Organization certificates.
+* **2** is **Restore** version, restore all listed revoking CodeSigning/Organization certificates.
 * **Choice** version is no longer available. Please visit About Certificates and delete the certificate(s) in /Windows/Certificates/CodeSigning or /Windows/Certificates/Organization folders to make it/them not to be revoked in All version.
 
 ### About Certificates
@@ -174,4 +174,4 @@ UTrust Root CA | [ChinaUTrust](http://www.chinautrust.com) | 5070A0E2FA1DB04C2ED
 xjcaRoot | [XIN JIANG CERTIFICATE AUTHORITY](http://www.xjca.com.cn) | 52A213B3CA8A5A5664D1BB9CF7A6A546C4E55973
 ZJRoot | [ZheJiang Certificate Authority](http://www.zjca.com.cn) | D65F531088EF11DD9BFA2BE437C906D44F9E9659
 ZJRoot | [ZheJiang Certificate Authority](http://www.zjca.com.cn) | 5809E86214B0C112FE08C1177D682EF5AAA5BF5F
-福建省运营根CA | [Fujian Digital Certificate Authority CO.,LTD](http://www.fjca.com.cn) | DD9DE879188E29AE9C6CEF546D6191B89A6B4F09
+福建省运营根 CA | [Fujian Digital Certificate Authority CO.,LTD](http://www.fjca.com.cn) | DD9DE879188E29AE9C6CEF546D6191B89A6B4F09
