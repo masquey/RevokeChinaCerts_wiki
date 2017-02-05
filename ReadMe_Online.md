@@ -1,21 +1,20 @@
 ### Usage
 * Download the ZIP of whole project.
-* Run batch **with Administrator permissions** and follow the messages on screen(Windows):
+* Run batch **with Administrator permission** and follow the messages on screen(Windows):
     * `RevokeChinaCerts_Online.bat` - Windows built-in certificate list
     * `RevokeChinaCerts_Firefox.bat` - Firefox built-in certificate list
     * Run all batches to revoke certificates in all supported lists.
-* See other system folders to revoke certificates in other platforms.
+* Visit other system folders to revoke certificate(s) in other platforms.
 * **Clear all browser(s) data/DNS cache of system** and restart network interface(s).
 
 ### Version
-* **Base** is the base version of RevokeChinaCerts, which can revoke some root/intermediate/fake certificates.
-* **Extended** is the extended version of RevokeChinaCerts, which can revoke all root/intermediate/fake certificates. **This is the suggestion.**
-* **All** is the all version of RevokeChinaCerts, which can revoke all certificates from greater China. **This is the test version.**
-* **Restore** is the restore batch, which can restore all revoked certificates.
+* **Base** is base version of RevokeChinaCerts, revoke some root/intermediate/fake certificates.
+* **Extended** is extended version of RevokeChinaCerts, revoke all root/intermediate/fake certificates. **This is the suggestion.**
+* **All** is all version of RevokeChinaCerts, revoke all certificates from greater China. **This is the test version.**
+* **Restore** is restore batch, restore all revoked certificates.
 
 ### Special
 * **Some security software will "protect" HTTPS transport with MITM/Man-in-the-middle attack, you must shutdown/uninstall these modules/softwares!**
-* **Extended** and **All** version will revoke `GoAgent CA` using in GoAgent. Please delete `CA.crt` and `certs` folder in GoAgent program folder(if it exists). Finally, clear all browser(s) data and DNS cache of system, restart network interface(s) and restart GoAgent.
 
 ### Attention(Windows)
 * Delete certificates cannot revoke them. You must add the certificates to CRL to prohibit all their uses.
@@ -48,7 +47,7 @@
     * `Setting` - `Security` - `Trusted credentials`
     * Open the certificate and select `Disable`.
     * Clear all browser(s) data and DNS cache of system, and restart network interface(s).
-* **iOS**: There are not any ways(Undocumented) to revoke any system root certificates in iOS.
+* **iOS**: There are not any ways(Documented or public) to revoke any system root certificates in iOS.
 
 ### About Certificates
 * See [this link](https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Certificates#human-readable-certificates-details) for more details.
@@ -72,6 +71,7 @@ CNNIC SSL | [Entrust.net Secure Server Certification Authority](https://www.entr
 [GiantRootCA](https://mail.ztgame.com) | [Giant Interactive Group Inc.](http://www.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sapprft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
+Thailand National Root Certification Authority - G1 | [Thailand National Root Certification Authority](http://www.nrca.go.th) | 66F2DCFB3F814DDEE9B3206F11DEFE1BFBDFE132
 
 * **Extended** list
 
@@ -97,13 +97,16 @@ CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) 
 [CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | EABDA240440ABBD694930A01D09764C6C2D77966
 CFCA Identity CA | [China Financial Certification Authority](https://www.cfca.com.cn) | F02B70BDE4EAE02B207377B9FD4785E4C9CC55DC
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
+GDCA TrustAUTH E5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | EB466CD37565F93CDE1062CD8D9826ED23730F12
 GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
 [GDCA TrustAUTH R5 ROOT](https://www.gdca.com.cn) | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
 [StartCom Certification Authority](https://www.startcom.org) | [StartCom Certification Authority](https://www.startcom.org) | 3E2BF7F2031B96F38CE6C4D8A85D3E2D58476A0F
 StartCom Certification Authority | [StartCom Certification Authority](https://www.startcom.org) | A3F1333FE242BFCFC5D14E8F394298406810D1A0
 StartCom Certification Authority G2 | [StartCom Certification Authority](https://www.startcom.org) | 31F1FD68226320EEC63B3F9DEA4A3E537C7C3917
+UCA Global G2 Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 28F97816197AFF182518AA44FEC1A0CE5CB64C8A
 [UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
 [UCA Root](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
+UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | A3A1B06F2461234AE336A5C237FCA6FFDDF0D73A
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
 UCA ROOT | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 3120F295417730075F8CD42D0CAE008EB5726EF8
@@ -125,17 +128,19 @@ CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org
 
 * **All** list
 
-Name | Authority | SHA-1
+Name | Authority | Fingerprint
 :---:|:---:|---
 [CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
 [ePKI Root Certification Authority](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0
 [ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 81AC5DE150D1B8DE5D3E0E266A136B737862D322
 [ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | D99B104298594763F0B9A927B79269CB47DD158B
+Government Root Certification Authority | [Government Root Certification Authority](http://grca.nat.gov.tw/GRCAeng/htdocs/index.html) | B091AA913847F313D727BCEFC8179F086F3A8C0F
 Government Root Certification Authority | [Government Root Certification Authority](http://grca.nat.gov.tw/GRCAeng/htdocs/index.html) | F48B11BFDEABBE94542071E641DE6BBE882B40B9
 Hongkong Post Root CA | [Hongkong Post](https://www.hongkongpost.hk) | E0925E18C7765E22DABD9427529DA6AF4E066428
 [Hongkong Post Root CA 1](https://www.hongkongpost.hk) | [Hongkong Post](https://www.hongkongpost.hk) | D6DAA8208D09D2154D24B52FCB346EB258B28A58
 Macao Post eSignTrust Root Certification Authority | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 89C32E6B524E4D65388B9ECEDC637134ED4193A3
-Macao Post eSignTrust Root Certification Authority(G02) | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 06143151E02B45DDBADD5D8E56530DAAE328CF90
+Macao Post eSignTrust Root Certification Authority (G02) | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 06143151E02B45DDBADD5D8E56530DAAE328CF90
+Macao Post eSignTrust Root Certification Authority (G03) | [Macao Post eSignTrust Certification Services](https://www.esigntrust.com) | 9D319381546EA6A12811E09CF90A20C840BE944D
 [SRCA](https://kyfw.12306.cn) | [Sinorail Certification Authority](http://www.12306.cn) | AE3F2E66D48FC6BD1DF131E89D768D505DF14302
 TaiCA Secure CA | [GTE CyberTrust Global Root](http://www.verizonenterprise.com) | 5B404B6DB43E1F71557F75552E7668289B1B6309
 TWCA Global Root CA | [TWCA](https://www.twca.com.tw) | 9CBB4853F6A4F6D352A4E83252556013F5ADAF65
