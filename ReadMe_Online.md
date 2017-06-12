@@ -35,7 +35,7 @@
     * Using the space bar to revoke the certificates.
     * Using tab and enter key to save changes.
     * Clear all browser(s) data and DNS cache of system, and restart network interface(s).
-* **Mac**
+* **macOS**
     * Open `Utilities` - `Keychain Access` - `Keychains` - `System Roots`
     * Open the certificate and select all `Not trusted`.
     * Clear all browser(s) data and DNS cache of system, and restart network interface(s).
