@@ -111,8 +111,11 @@ UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
 UCA ROOT | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 3120F295417730075F8CD42D0CAE008EB5726EF8
 WoSign Client Authority | [UTN-USERFirst-Client Authentication and Email](https://www.comodo.com) | FAD4319D4E173FF3853E51C98D21919BF3DA1A1E
-[WoSign EV SSL CA](https://evpretest.wosign.com) | [Certum Trusted Network CA](https://www.certum.eu) | 87DD1B740366A877FD28BF7ED709F4ACE1FA43A5
-[WoSign OV SSL CA](https://ovpretest.wosign.com) | [Certum Trusted Network CA](https://www.certum.eu) | FAEE1F690EDD55373C35E491EF0514F3EE9445A5
+WoSign DV SSL CA | [Certum Trusted Network CA](https://www.certum.eu) | 5B562E002F15E1617C416D1960218544C18F36B7
+WoSign EV SSL CA | [Certum Trusted Network CA](https://www.certum.eu) | 87DD1B740366A877FD28BF7ED709F4ACE1FA43A5
+WoSign EV SSL Pro CA | [DigiCert High Assurance EV Root CA](https://www.digicert.com) | C0CDBE86C539F0A8BEAD82D82DF01B4DDA6FA349
+WoSign OV SSL CA | [Certum Trusted Network CA](https://www.certum.eu) | FAEE1F690EDD55373C35E491EF0514F3EE9445A5
+WoSign OV SSL Pro CA | [DigiCert High Assurance EV Root CA](https://www.digicert.com) | CAF415BAC356D194DA6FE89ECCB49DF4A216EACE
 WoSign Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | E3D569137E603E7BACB6BCC66AE943850C8ADF38
 WoSign Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 3E14B8BD6C568657D852D95D387249AE857B4A39
 WoSign SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 6D5A18050D56BFDE525CBE89E8C45DD1B53D12E9
@@ -120,7 +123,9 @@ WoTrust Client Authority | [UTN-USERFirst-Client Authentication and Email](https
 WoTrust Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 381CBC5048AFD9A02D3E5882D5F22D962B1A5F72
 WoTrust Premium Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | CF37A5B5C9166BD6B57A56BF67165A584B057241
 WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | 337DF96418F08A9355870513AFCEBDC68BCED767
+WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | D1F58CDB9194A374AC91DAADD411FEB99C434CC9
 WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C
+WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | BCF8FDFBD8A8501D603A90356566C93BC83372EE
 [CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
 CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
