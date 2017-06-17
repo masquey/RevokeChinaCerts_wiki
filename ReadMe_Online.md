@@ -68,7 +68,7 @@ Blue Coat Public Services Intermediate CA | [VeriSign Class 3 Public Primary Cer
 [China Internet Network Information Center EV Certificates Root](https://support.apple.com/en-us/HT204938) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 4F99AA93FB2BD13726A1994ACE7FF005F2935D1E
 CNNIC SSL | [Entrust.net Secure Server Certification Authority](https://www.entrust.net) | 6856BB1A6C4F76DACA362187CC2CCD484EDDC25D
 [CNNIC ROOT](https://support.apple.com/en-us/HT204938) | [China Internet Network Information Center](https://www.cnnic.net.cn) | 8BAF4C9B1DF02A92F7DA128EB91BACF498604B6F
-[GiantRootCA](https://mail.ztgame.com) | [Giant Interactive Group Inc.](http://www.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
+GiantRootCA | [Giant Interactive Group Inc.](http://www.ztgame.com) | 7514436E903C901069980499CA70DE74FC06C83C
 [JGZXCA](https://211.146.10.133) | [State Administration of Press, Publication, Radio, Film and Television of The People's Republic of China](http://www.sapprft.gov.cn) | 7A4AA61E2A88704115E47748D8647DAEE6837559
 Superfish, Inc. | [Superfish, Inc.](http://www.home.superfish.com) | C864484869D41D2B0D32319C5A62F9315AAF2CBD
 Thailand National Root Certification Authority - G1 | [Thailand National Root Certification Authority](http://www.nrca.go.th) | 66F2DCFB3F814DDEE9B3206F11DEFE1BFBDFE132
@@ -94,7 +94,7 @@ Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | B391
 Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
 [CFCA EV ROOT](https://cs.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | E2B8294B5584AB6B58C290466CAC3FB8398F8483
 CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
-[CFCA GT CA](https://cstest.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | EABDA240440ABBD694930A01D09764C6C2D77966
+CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) | EABDA240440ABBD694930A01D09764C6C2D77966
 CFCA Identity CA | [China Financial Certification Authority](https://www.cfca.com.cn) | F02B70BDE4EAE02B207377B9FD4785E4C9CC55DC
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
 GDCA TrustAUTH E5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | EB466CD37565F93CDE1062CD8D9826ED23730F12
@@ -105,7 +105,7 @@ StartCom Certification Authority | [StartCom Certification Authority](https://ww
 StartCom Certification Authority G2 | [StartCom Certification Authority](https://www.startcom.org) | 31F1FD68226320EEC63B3F9DEA4A3E537C7C3917
 UCA Global G2 Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 28F97816197AFF182518AA44FEC1A0CE5CB64C8A
 [UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
-[UCA Root](https://ibanks.bankofshanghai.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
+UCA Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | A3A1B06F2461234AE336A5C237FCA6FFDDF0D73A
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
@@ -135,9 +135,9 @@ CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org
 
 Name | Authority | Fingerprint
 :---:|:---:|---
-[CERNET CA](https://www.nic.edu.cn) | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
-[ePKI Root Certification Authority](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0
-[ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 81AC5DE150D1B8DE5D3E0E266A136B737862D322
+CERNET CA | [The China Education and Research Network](http://www.cernet.edu.cn) | 8EF134D4BAD5498E348A7C6D9B66F67A09D56D9B
+ePKI Root Certification Authority | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 67650DF17E8E7E5B8240A4F4564BCFE23D69C6F0
+ePKI Root Certification Authority - G2 | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | 81AC5DE150D1B8DE5D3E0E266A136B737862D322
 [ePKI Root Certification Authority - G2](https://epki.com.tw) | [Chunghwa Telecom ecommerce Public Key Infrastructure](https://epki.com.tw) | D99B104298594763F0B9A927B79269CB47DD158B
 Government Root Certification Authority | [Government Root Certification Authority](http://grca.nat.gov.tw/GRCAeng/htdocs/index.html) | B091AA913847F313D727BCEFC8179F086F3A8C0F
 Government Root Certification Authority | [Government Root Certification Authority](http://grca.nat.gov.tw/GRCAeng/htdocs/index.html) | F48B11BFDEABBE94542071E641DE6BBE882B40B9
