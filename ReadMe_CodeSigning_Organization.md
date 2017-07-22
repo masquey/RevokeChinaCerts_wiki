@@ -37,7 +37,7 @@ Name | Expire Time | Fingerprint
 [Qihoo 360 Software (Beijing) Company Limited(SHA-256)](https://www.360.cn) | 2019-03-29 | 978859CE5698F2BFADE1129401CF70856BE738D3
 [Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2018-02-08 | AFC10A7F6628C214982E23B1C166A21F0BF3E7DF
 [Shenzhen DriveTheLife Software Technology Co.Ltd(SHA-256)](http://www.160.com) | 2018-02-08 | 52618B2F6389127082A2E208ECD70234019DF6E8
-[Shenzhen Smartspace Software technology Co.,Limited](http://www.160.com) | 2017-04-20 | 78A149F9A04653B01DF09743571DF938F9873FA5
+[Shenzhen Thinksky Technology Co.,Ltd](http://www.itools.cn) | 2018-06-09 | 4C681FDEBC70813C8495F134E6A0A8578C7E37B1
 [ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2018-07-27 | D0AE98E21429702CE68CFB1475D29E59CAC36F54
 [ShenZhen Thunder Networking Technologies Ltd.(SHA-256)](http://www.xunlei.com) | 2018-07-27 | 5C4F19D63931C00E239E4227DE41C60AF140F45B
 [Sogou.com](https://www.sogou.com) | 2017-09-27 | D91D7B2C0FC2E792041CA3C5D35E67BBADA3C33E
@@ -52,9 +52,11 @@ Name | Expire Time | Fingerprint
 [YY Inc.(SHA-256)](https://www.yy.com) | 2018-10-16 | 2B70F74748E600BB0FA155C4ADABD3BF7B877261
 [Zhuhai Kingsoft Office Software Co.,Ltd](http://www.wps.cn) | 2018-05-29 | 8BED7372744EF5EA8E99E174260327193E8BEA9D
 [Zhuhai Kingsoft Office Software Co.,Ltd(SHA-256)](http://www.wps.cn) | 2018-05-29 | 97BBE4A840A419A00A771FEA8CA5248DA794CD34
+[北京飓风互动科技有限公司](http://www.iiapple.com) | 2019-04-02 | F155A74AFF624A8D5C24F52D3FB4F35742B3469B
 [合一网络技术（北京）有限公司](https://www.youku.com) | 2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
 [合一网络技术（北京）有限公司](https://www.youku.com) | 2018-01-06 | 7CA5748E69272CB1164C4F6E37E7848A5DE46D96
 [合一网络技术（北京）有限公司(SHA-256)](https://www.youku.com) | 2018-01-06 | 2067B2629A568B4B478EEBD12D9257CC2AF696A8
+[深圳市为爱普信息技术有限公司](https://www.i4.cn) | 2019-07-21 | D3A0E1A69355E75069C9E4E448D63D7AEF84FB13
 
 * Expired **CodeSigning** list
 
@@ -97,6 +99,8 @@ Name | Expire Time | Fingerprint
 [Qihoo 360 Software (Beijing) Company Limited](https://www.360.cn) | 2016-03-11 | 1E5BB77FCB63F26277F95AAE09B852699327A08A
 [Shanghai Quan Tudou Network Technology Co., Ltd.](https://www.tudou.com) | 2015-06-28 | 935140881F50BDF775D3CEF034C0D21C18FD2567
 [Shenzhen DriveTheLife Software Technology Co.Ltd](http://www.160.com) | 2016-01-26 | 294952E04EE73FA1935E756841F0FE11477F993B
+[Shenzhen Smartspace Software technology Co.,Limited](http://www.160.com) | 2017-04-20 | 78A149F9A04653B01DF09743571DF938F9873FA5
+[Shenzhen Thinksky Technology Co.,Ltd](http://www.itools.cn) | 2014-05-19 | B443DD956C623D53863C2443B6D10C04A4FB3A4A
 [ShenZhen Thunder Networking Technologies Ltd.](http://www.xunlei.com) | 2015-06-24 | 49A132170EFAE08EDDD9EE8A241B30BC947ACBD7
 [ShenZhen Xunlei Networking Technologies Ltd.](http://www.xunlei.com) | 2016-09-16 | 4099665730474153EADF671B8B475C03C08A46D0
 [Sogou.Com](https://www.sogou.com) | 2012-07-15 | 34E11CCF5897AD9BD37A32FFB2B8F4AA21560847
