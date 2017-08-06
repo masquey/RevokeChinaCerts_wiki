@@ -26,9 +26,12 @@ Name | Expire Time | Fingerprint
 [BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD.(SHA-256)](http://www.iqiyi.com) | 2020-02-02 | 18427E6D2F947FB629D1D13F96136AE425231063
 [Beijing Rising Information Technology Corporation Limited](http://www.rising.com.cn) | 2018-09-08 | 6D6AFC4A6E24B3441B872B9995E37CA8D2BC4609
 [Beijing Rising Information Technology Corporation Limited(SHA-256)](http://www.rising.com.cn) | 2018-09-08 | BB22AEDFC634E3DC119B926E648CDE494E12A798
+[CA 沃通根证书](https://www.wosign.com) | 2025-04-30 | 3FB343D3CF454603510C3B969445068C5BFEF12A
 [Certification Authority of WoSign](https://www.wosign.com) | 2019-07-10 | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
+[Certification Authority of WoSign](https://www.wosign.com) | 2025-04-30 | B74827E3D6BF9DFFD85111680688244DB8C269FE
 [FOX INFORMATION TECHNOLOGY (TIANJIN) LIMITED](https://www.sohu.com) | 2017-12-31 | 89FB07619BFEC398C258221AB54DB5D761F061FA
 [Guangzhou Tieren Network Technology Co.,Ltd.](http://www.25pp.com) | 2018-07-13 | 6505AD4DC89D1E592A47E839359E6918A0407EBF
+[Hangzhou Shunwang Technology Co.,Ltd](http://ww.icafe8.com) | 2018-01-23 | E93763AF668D36E8ACE49D299A91A0544C1CC09C
 [Maxthon (Asia) Limited.](https://www.maxthon.com) | 2018-08-28 | 5C7961E4A7020975FF67414435FA934BA87D1366
 [NetEase(Hangzhou) Network Co. Ltd.](http://www.163.com) | 2019-02-27 | E90DC0AC8B9EAE1DA53292626094CF800CEF2BC0
 [PPLive Corporation](http://www.pptv.com) | 2019-01-25 | B8DE8DBF3807F94364D4978766814637522D660C
@@ -47,6 +50,8 @@ Name | Expire Time | Fingerprint
 [Tencent Technology(Shenzhen) Company Limited](https://www.tencent.com) | 2019-03-29 | C57B841B09620EA6278E62AF20963FAEC8F9E03D
 [Tencent Technology(Shenzhen) Company Limited(SHA-256)](https://www.tencent.com) | 2019-03-29 | 297124A7E7D4F2B46BD478AC7263A1369AC1738D
 [WoSign Code Signing Authority](https://www.wosign.com) | 2019-07-10 | EA36152981E296F9763E1DC74B3262D3928563F8
+[WoSign Code Signing CA](https://www.wosign.com) | 2026-11-09 | 8EE115F1DBDF2F334F3917BBC09C684474A8A65D
+[WoSign EV Code Signing Pro CA](https://www.wosign.com) | 2027-05-23 | 3CE2118D75A2258C53A3D7A26512160E09AA0FE9
 [WoTrust Code Signing Authority](https://www.wosign.com) | 2019-07-10 | B28CCC46D234A7D7CF7F21CCB9406F48A5273CC6
 [YY Inc.](https://www.yy.com) | 2018-10-16 | 0C4D32BB2623387CD40C252DDB0F650DE6373385
 [YY Inc.(SHA-256)](https://www.yy.com) | 2018-10-16 | 2B70F74748E600BB0FA155C4ADABD3BF7B877261
@@ -56,6 +61,8 @@ Name | Expire Time | Fingerprint
 [合一网络技术（北京）有限公司](https://www.youku.com) | 2017-12-18 | B138DEFA2A4CF7C967515934344AC8649F5234A4
 [合一网络技术（北京）有限公司](https://www.youku.com) | 2018-01-06 | 7CA5748E69272CB1164C4F6E37E7848A5DE46D96
 [合一网络技术（北京）有限公司(SHA-256)](https://www.youku.com) | 2018-01-06 | 2067B2629A568B4B478EEBD12D9257CC2AF696A8
+[上海旭岑投资合伙企业（有限合伙）](http://021g20.com) | 2017-09-20 | 7145CF5777CE8FD9C5A001BB18F87F60F071C9E6
+[深圳市任网游科技发展有限公司](http://www.topfreeweb.net) | 2018-07-23 | 61EFA27B38B12BEF9B26F891C0ED7032AB85EB57
 [深圳市为爱普信息技术有限公司](https://www.i4.cn) | 2019-07-21 | D3A0E1A69355E75069C9E4E448D63D7AEF84FB13
 
 * Expired **CodeSigning** list
@@ -120,6 +127,7 @@ Name | Expire Time | Fingerprint
 [杭州缪斯客网络科技有限公司](http://www.xiami.com) | 2014-08-22 | EEC507F719D5BA0CB913F034E045A24A509D8A5F
 [上海瑞创网络科技股份有限公司](https://www.2345.com) | 2014-06-21 | 645E7A1C195EA2C8ED9E34AE1BF3CB9B06FD712E
 [广东雨林木风计算机科技有限公司](http://www.ylmf.com) | 2016-06-10 | 93A77CA50F165A5873DD3995874867B616AB3644
+[任子行网络技术股份有限公司](http://www.topfreeweb.net) | 2016-04-25 | 03BCB37634EB5585A14F1DD58AF7026F310D0362
 [厦门美图网科技有限公司](http://www.meitu.com) | 2015-02-17 | 7B6FAE77BD19FEC5410293344B36124774A6D8F1
 [厦门美图网科技有限公司](http://www.meitu.com) | 2017-02-19 | EBA2ADB1C0B7A61E5BA25B8356387F27049BA1A1
 [中国电信股份有限公司](http://www.189.cn) | 2016-02-29 | 40B33FA24481DEF470BF2CDF88BABB8754C8489A
