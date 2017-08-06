@@ -78,6 +78,13 @@ Thailand National Root Certification Authority - G1 | [Thailand National Root Ce
 Name | Authority | Fingerprint
 :---:|:---:|---
 [CA WoSign ECC Root](https://root5evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | D27AD2BEED94C0A13CC72521EA5D71BE8119F32B
+[CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
+CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
+CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
+CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | D8EFF6C28BB508E4702565F42748454A872BD412
+GDCA TrustAUTH E5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | EB466CD37565F93CDE1062CD8D9826ED23730F12
+GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
+[GDCA TrustAUTH R5 ROOT](https://www.gdca.com.cn) | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
 Certification Authority of WoSign | [UTN-USERFirst-Object](https://www.comodo.com) | 1C1ECDCCF764E6168177C5711F33EC9229A29F88
 Certification Authority of WoSign | [StartCom Certification Authority](https://www.startcom.org) | 27D5BBE04301E1604839708D172CF09296ED9033
 Certification Authority of WoSign | [WoSign CA Limited](https://www.wosign.com) | 33A4D8BC38608EF52EF0E28A35091E9250907FB9
@@ -91,25 +98,27 @@ Certification Authority of WoSign | [StartCom Certification Authority](https://w
 Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | 73FFCA3F815B7A77717FE91912A4DC7B6BFB79CA
 Certification Authority of WoSign G2 | [Certum CA](https://www.certum.eu) | B39191CFF08EB6FD8B447C21CAAEF6FC33F1D5AE
 [Certification Authority of WoSign G2](https://root4evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | FBEDDC9065B7272037BC550C9C56DEBBF27894E1
-Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
 [CFCA EV ROOT](https://cs.cfca.com.cn) | [China Financial Certification Authority](https://www.cfca.com.cn) | E2B8294B5584AB6B58C290466CAC3FB8398F8483
 CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) | A8F2DFE36AE0CC2DB9DD38347D30AED9551DD25A
 CFCA GT CA | [China Financial Certification Authority](https://www.cfca.com.cn) | EABDA240440ABBD694930A01D09764C6C2D77966
 CFCA Identity CA | [China Financial Certification Authority](https://www.cfca.com.cn) | F02B70BDE4EAE02B207377B9FD4785E4C9CC55DC
+Class 1 Primary CA | [WoSign CA Limited](https://www.wosign.com) | 6A174570A916FBE84453EED3D070A1D8DA442829
 GoAgent CA | [GoAgent project](https://github.com/GoAgent/GoAgent) | AB702CDF18EBE8B438C52869CD4A5DEF48B40E33
-GDCA TrustAUTH E5 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | EB466CD37565F93CDE1062CD8D9826ED23730F12
-GDCA TrustAUTH R2 ROOT | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 742CA08594ABA62CE76E94386EA75A98712F02EA
-[GDCA TrustAUTH R5 ROOT](https://www.gdca.com.cn) | [GUANG DONG CERTIFICATE AUTHORITY](https://www.gdca.com.cn) | 0F36385B811A25C39B314E83CAE9346670CC74B4
+StartCom BR SSL ICA | [Certinomis - Root CA](https://www.certinomis.fr) | FD17DA1458D3514592C4F9544A6EA960B373E877
 [StartCom Certification Authority](https://www.startcom.org) | [StartCom Certification Authority](https://www.startcom.org) | 3E2BF7F2031B96F38CE6C4D8A85D3E2D58476A0F
 StartCom Certification Authority | [StartCom Certification Authority](https://www.startcom.org) | A3F1333FE242BFCFC5D14E8F394298406810D1A0
+StartCom Certification Authority CS | [StartCom Certification Authority](https://www.startcom.org) | 8E207F5DC0A69AA337658D2367433EC27D8506D0
+StartCom Certification Authority ECC | [StartCom Certification Authority](https://www.startcom.org) | B51085D95B95DA912012D2C3B0019A2DC46D26E3
 StartCom Certification Authority G2 | [StartCom Certification Authority](https://www.startcom.org) | 31F1FD68226320EEC63B3F9DEA4A3E537C7C3917
-UCA Global G2 Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 28F97816197AFF182518AA44FEC1A0CE5CB64C8A
-[UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
-UCA Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
+StartCom Certification Authority G3 | [StartCom Certification Authority](https://www.startcom.org) | 689A1229D698D172E99E1BF00B9C19854119C9FC
+StartCom EV SSL ICA | [Certinomis - Root CA](https://www.certinomis.fr) | 15C1776480382DEEFC869C2DA7F5BA8626B8A029
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | A3A1B06F2461234AE336A5C237FCA6FFDDF0D73A
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | B9C9F58B3BBEF575E2B58328770E7B0076C40B5E
 UCA Extended Validation Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | C59DD79CC42245AC7216FDC18524F7D1E4CF1E92
+UCA Global G2 Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 28F97816197AFF182518AA44FEC1A0CE5CB64C8A
+[UCA Global Root](https://www.sheca.com) | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 0B972C9EA6E7CC58D93B20BF71EC412E7209FABF
 UCA ROOT | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 3120F295417730075F8CD42D0CAE008EB5726EF8
+UCA Root | [Shanghai Electronic Certificate Authority Center Co., Ltd.](https://www.sheca.com) | 8250BED5A214433A66377CBC10EF83F669DA3A67
 WoSign Client Authority | [UTN-USERFirst-Client Authentication and Email](https://www.comodo.com) | FAD4319D4E173FF3853E51C98D21919BF3DA1A1E
 WoSign DV SSL CA | [Certum Trusted Network CA](https://www.certum.eu) | 5B562E002F15E1617C416D1960218544C18F36B7
 WoSign EV SSL CA | [Certum Trusted Network CA](https://www.certum.eu) | 87DD1B740366A877FD28BF7ED709F4ACE1FA43A5
@@ -126,10 +135,6 @@ WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](ht
 WoTrust Server Authority | [AddTrust External CA Root/UTN-USERFirst-Hardware](https://www.comodo.com) | D1F58CDB9194A374AC91DAADD411FEB99C434CC9
 WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | 46A762F3C3CF3732DE22A8BA1EBBA3BC048F9B8C
 WoTrust SGC Server Authority | [UTN – DATACorp SGC](https://www.comodo.com) | BCF8FDFBD8A8501D603A90356566C93BC83372EE
-[CA 沃通根证书](https://root2evtest.wosign.com) | [WoSign CA Limited](https://www.wosign.com) | 1632478D89F9213A92008563F5A4A7D312408AD6
-CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | B2FBDA222493A93C38F77C90D4BE6DA17F15F0B0
-CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | CE335662F0EA6764B95C7F50A995A514ACE8C815
-CA 沃通根证书 | [StartCom Certification Authority](https://www.startcom.org) | D8EFF6C28BB508E4702565F42748454A872BD412
 
 * **All** list
 
@@ -151,5 +156,5 @@ TaiCA Secure CA | [GTE CyberTrust Global Root](http://www.verizonenterprise.com)
 TWCA Global Root CA | [TWCA](https://www.twca.com.tw) | 9CBB4853F6A4F6D352A4E83252556013F5ADAF65
 [TWCA Root Certification Authority](https://www.twca.com.tw) | [TWCA](https://www.twca.com.tw) | CF9E876DD3EBFC422697A3B5A37AA076A9062348
 TWCA Root Certification Authority | [TWCA](https://www.twca.com.tw) | DF646DCB7B0FD3A96AEE88C64E2D676711FF9D5F
-TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
 TWCA Secure CA | [Baltimore CyberTrust Root](http://www.verizonenterprise.com) | 3F3E6C4B33802A2FEA46C5CACA14770A40018899
+TWCA Secure Certification Authority | [AddTrust External CA Root](https://www.comodo.com) | 339D811FEC673E7F731307A34C7C7523ABBE7DFE
