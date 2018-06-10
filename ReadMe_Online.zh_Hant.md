@@ -1,1 +1,0 @@
-請移步 https://github.com/chengr28/RevokeChinaCerts/tree/master/Shared/Documents
